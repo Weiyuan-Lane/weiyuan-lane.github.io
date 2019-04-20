@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+	<head>
+		<title><%= current_page.data.title %></title>
+		<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <%= favicon_tag 'favicon.ico' %>
+    <%= stylesheet_link_tag "site" %>
+    <noscript><%= stylesheet_link_tag "noscript" %></noscript>
+  </head>
+  <body class="is-preload">
+    <%= yield %>
+  </body>
+</html>

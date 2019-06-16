@@ -1,4 +1,0 @@
-#!/bin/sh
-
-rm -rf build 2> /dev/null
-bundle exec rake publish BRANCH_NAME=master

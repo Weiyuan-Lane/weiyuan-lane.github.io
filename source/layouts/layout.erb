@@ -1,7 +1,8 @@
 <!doctype html>
 <html>
 	<head>
-		<title><%= current_page.data.title %></title>
+    <title><%= current_page.data.title %></title>
+    <meta name="description" content="<%= current_page.data.description %>">
 		<meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <meta name="google-site-verification" content="1yJwtZmUEW1QsrrIvRrXiBHA4O1yBmKeJBxP3txMgrI" />
@@ -11,6 +12,23 @@
     <link rel="amphtml" href="<%= current_page.data.canonicalLink %>">
   </head>
   <body class="is-preload">
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "name": "<%= current_page.data.title %>",
+        "description": "<%= current_page.data.description %>",
+        "publisher": {
+            "@type": "ProfilePage",
+            "name": "Weiyuan Liu's website"
+        },
+        "sameAs": [
+          "https://www.linkedin.com/in/liuweiyuan",
+          "https://github.com/Weiyuan-Lane",
+          "https://medium.com/@weiyuan.liu"
+        ]
+    }
+    </script>
     <%= yield %>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-138723882-1"></script>
     <script>

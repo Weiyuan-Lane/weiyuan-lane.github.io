@@ -14,9 +14,13 @@
   position: relative;
   text-align: justify;
   width: 54em;
-  margin: 2em auto 0 auto;
+  margin: 0 auto 0 auto;
   text-transform: none;
   
+  &:first-child {
+    margin-top: 2em;
+  }
+
   .avatar {
     position: relative;
     display: block;

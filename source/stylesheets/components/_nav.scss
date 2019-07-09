@@ -1,0 +1,107 @@
+$navColor: #ffffff;
+$marginSpacing: 2.5rem;
+
+nav.navbar{
+  @include vendor('transition', (
+    'opacity #{_duration(main) * 3} ease',
+    'background-color #{_duration(main) * 3} ease',    
+  ));
+
+  margin: $marginSpacing auto $marginSpacing auto;
+  color: $navColor;
+  text-align: center;
+  display: flex;
+  opacity: 1;
+  position: relative;
+
+  & li {
+    padding-left: 0;
+    border-left: solid 1px $navColor;
+    background-color: rgba(135,135,135,0.2);
+  }
+
+  & li:hover {
+    background-color: rgba(208,208,208,0.2);
+  }
+
+  & li.active {
+    background-color: rgba(68, 8, 108, 0.2);
+  }
+
+  & li:first-child {
+    border-left: 0;
+  }
+
+  & ul {
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    margin: auto;
+    margin-bottom: 0;
+    list-style: none;
+    padding-left: 0;
+    border: solid 1px $navColor;
+    border-radius: 4px;  
+  }
+
+  & a{
+    display: block;
+    min-width: 7.5rem;
+    height: 2.75rem;
+    line-height: 2.75rem;
+    padding: 0 1.25rem 0 1.45rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    font-size: 0.8rem;
+    border-bottom: 0;
+  }
+
+  &:before,
+  &:after {
+    @include vendor('transition', (
+      'height #{_duration(main) * 3} ease',
+    ));
+
+    content: '';
+    display: block;
+    position: absolute;
+    left: calc(50% - 1px);
+    width: 1px;
+    height: calc(#{$marginSpacing} + 1px);
+    background: $navColor;
+  }
+
+  &:before {
+    top: calc(-#{$marginSpacing} - 1px);
+  }
+
+  &:after {
+    bottom: calc(-#{$marginSpacing} - 1px);
+  }
+  
+  body.is-preload & {
+    opacity: 0;
+  }
+
+  body.is-preload &:before,
+  body.is-preload &:after {
+    height: 0;
+  }
+
+  &:first-child:before {
+    display: none;
+  }
+
+  &:first-child {
+    margin-top: 0;
+  }
+
+  &:last-child:after {
+    display: none;
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}

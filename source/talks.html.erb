@@ -1,0 +1,17 @@
+---
+title: Weiyuan Liu
+description: "Talks that Weiyuan Liu participated in before"
+---
+
+<div id="wrapper">
+  <%= partial "partials/navbar", locals: { activeComponent: 'talks' } %>
+  <%= partial "partials/who_am_i" %>
+  <%= partial "partials/navbar", locals: { activeComponent: 'talks' } %>
+</div>
+
+<script>
+  if ('addEventListener' in window) {
+    window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-preload\b/, ''); });
+    document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+  }
+</script>

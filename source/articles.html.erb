@@ -1,12 +1,13 @@
 ---
 title: Weiyuan Liu
 description: "Weiyuan Liu's articles on Medium"
+canonicalLink: "/amp/articles"
 ---
 
 <div id="wrapper">
   <%= partial "partials/navbar", locals: { activeComponent: 'articles' } %>
-  <%= partial "partials/who_am_i" %>
-  <%= partial "partials/navbar", locals: { activeComponent: 'articles' } %>
+  <%= partial "partials/article_profile" %>
+  <%= partial "partials/article_history", locals: { amp: false } %>
 </div>
 
 <script>

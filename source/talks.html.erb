@@ -1,21 +1,13 @@
 ---
 title: Weiyuan Liu
 description: "Talks that Weiyuan Liu participated in before"
+canonicalLink: "/amp/talks"
 ---
 
 <div id="wrapper">
   <%= partial "partials/navbar", locals: { activeComponent: 'talks' } %>
-  <section class="section-body">
-    <h1>profile</h1>
-    <p>I have an interest over a range of topics, from Frontend, Backend, to DevOps. Usually I attend events for the talks, sometimes I participate in them too :P</p>
-    <p>Currently speaking on the following topics: </p>
-    <ul>
-      <li>Migrating CI to Cloud Build with Google Cloud Platform</li>
-      <li>Trigonomatry in Sass</li>
-      <li>Soompi's migration from Wordpress to SOA</li>
-    </ul>
-  </section>
-  <%= partial "partials/navbar", locals: { activeComponent: 'talks' } %>
+  <%= partial "partials/talk_profile" %>
+  <%= partial "partials/talk_history", locals: { amp: false } %>
 </div>
 
 <script>

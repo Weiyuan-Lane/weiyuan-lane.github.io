@@ -180,7 +180,6 @@
       max-width: 100%;
       opacity: 0.95;
       position: relative;
-      text-align: justify;
       width: 54em;
       margin: 2em auto 0 auto;
       text-transform: none;
@@ -207,6 +206,91 @@
       border-radius: 100%;
       -webkit-box-shadow: 0 0 0 1.5em #ffffff;
       box-shadow: 0 0 0 1.5em #ffffff;
+    }
+    nav.navbar {
+      margin: 2.5rem auto 2.5rem auto;
+      color: #ffffff;
+      text-align: center;
+      display: flex;
+      opacity: 1;
+      position: relative;
+    }
+    nav.navbar ul {
+      display: -moz-flex;
+      display: -ms-flex;
+      display: flex;
+      margin: auto;
+      margin-bottom: 0;
+      list-style: none;
+      padding-left: 0;
+      border: solid 1px #ffffff;
+      border-radius: 4px;
+    }
+    nav.navbar a {
+      display: block;
+      min-width: 7.5rem;
+      height: 2.75rem;
+      line-height: 2.75rem;
+      padding: 0 1.25rem 0 1.45rem;
+      text-transform: uppercase;
+      letter-spacing: 0.2rem;
+      font-size: 0.8rem;
+      border-bottom: 0;
+    }
+    nav.navbar li:first-child {
+      border-left: 0;
+    }
+
+    nav.navbar li.active {
+      background-color: rgba(68, 8, 108, 0.2);
+    }
+    nav.navbar li {
+      padding-left: 0;
+      border-left: solid 1px #ffffff;
+      background-color: rgba(135, 135, 135, 0.2);
+    }
+    nav.navbar li:hover {
+      background-color: rgba(208, 208, 208, 0.2);
+    }
+    nav.navbar:before {
+      top: calc(-2.5rem - 1px);
+    }
+    nav.navbar:before, nav.navbar:after {
+      content: '';
+      display: block;
+      position: absolute;
+      left: calc(50% - 1px);
+      width: 1px;
+      height: calc(2.5rem + 1px);
+      background: #ffffff;
+    }
+    nav.navbar:after {
+      bottom: calc(-2.5rem - 1px);
+    }
+    nav.navbar:first-child:before {
+      display: none;
+    }
+    nav.navbar:last-child:after {
+      display: none;
+    }
+    @media screen and (max-width: 480px) {
+      nav.navbar {
+        margin: 1.7rem auto 1.7rem auto;
+      }
+      nav.navbar a {
+        font-size: 0.6rem;
+        padding: 0 1.05rem 0 1.25rem;
+        min-width: 6rem;
+      }
+      nav.navbar:before {
+        top: calc(-1.7rem - 1px);
+      }
+      nav.navbar:after {
+        bottom: calc(-1.7rem - 1px);
+      }
+      nav.navbar:before, nav.navbar:after {
+        height: calc(1.7rem + 1px);
+      }
     }
     ul.icons {
       cursor: default;
@@ -261,6 +345,9 @@
     }
     .button:hover {
       border-color: #ff7496;
+      color: #ff7496;
+    }
+    a:hover {
       color: #ff7496;
     }
     </style>

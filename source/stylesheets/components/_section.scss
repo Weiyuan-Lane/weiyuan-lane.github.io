@@ -14,12 +14,8 @@
   position: relative;
   text-align: justify;
   width: 54em;
-  margin: 0 auto 0 auto;
+  margin: 2em auto 0 auto;
   text-transform: none;
-  
-  &:first-child {
-    margin-top: 2em;
-  }
 
   .avatar {
     position: relative;
@@ -85,5 +81,16 @@
   body.is-preload & {
     @include vendor('transform', 'rotateX(15deg)');
     opacity: 0;
+  }
+}
+
+.section-body.social {
+  padding: 1.5em;
+  width: 20em;
+  text-align: center;
+  border-radius: 100px;
+
+  .icons {
+    margin: 0;
   }
 }

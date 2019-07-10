@@ -1,9 +1,18 @@
-<footer>
-  <ul class="icons">
-    <li><a href="https://www.linkedin.com/in/liuweiyuan" class="fa-linkedin">Linkedin</a></li>
-    <li><a href="https://medium.com/@weiyuan.liu" class="fa-medium">Medium</a></li>
-    <li><a href="https://github.com/weiyuan-lane" class="fa-github">Engineers.SG</a></li>
-  </ul>
-  <hr>
-  <p>weiyuan.lane@gmail.com</p>
-</footer>
+<% amp ||= false %>
+<section id="main" class="section-body">
+  <header>
+    <% if amp %>
+    <span class="avatar"><amp-img src="/images/avatar.jpg" width="160" height="160" alt="avatar"></amp-img></span>
+    <% else %>
+    <span class="avatar"><img src="/images/avatar.jpg" alt="Weiyuan Liu" /></span>
+    <% end %>
+    <h1>Weiyuan Liu</h1>
+    <p>Engineer &#183; Rakuten Viki &amp; Archipelago</p>
+  </header>
+  <hr />
+  <footer>
+    <%= partial "partials/social" %>
+    <hr>
+    <p>weiyuan.lane@gmail.com</p>
+  </footer>
+</section>

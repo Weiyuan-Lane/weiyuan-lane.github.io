@@ -5,15 +5,7 @@ canonicalLink: "/amp/root/"
 ---
 
 <div id="wrapper">
-  <section id="main" class="section-body">
-    <header>
-      <span class="avatar"><img src="/images/avatar.jpg" alt="Weiyuan Liu" /></span>
-      <h1>Weiyuan Liu</h1>
-      <p>Engineer &#183; Rakuten Viki &amp; Archipelago</p>
-    </header>
-    <hr />
-    <%= partial "partials/profile" %>
-  </section>
+  <%= partial "partials/profile", locals: { amp: false } %>
   <%= partial "partials/navbar", locals: { activeComponent: 'intro' } %>
   <%= partial "partials/who_am_i" %>
 </div>

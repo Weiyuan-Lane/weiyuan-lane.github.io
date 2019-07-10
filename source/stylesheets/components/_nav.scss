@@ -1,5 +1,6 @@
 $navColor: #ffffff;
 $marginSpacing: 2.5rem;
+$smallMarginSpacing: 1.7rem;
 
 nav.navbar{
   @include vendor('transition', (
@@ -89,7 +90,8 @@ nav.navbar{
     height: 0;
   }
 
-  &:first-child:before {
+  &:first-child:before,
+  &:last-child:before {
     display: none;
   }
 
@@ -103,5 +105,30 @@ nav.navbar{
 
   &:last-child {
     margin-bottom: 0;
+  }
+
+  @include breakpoint('<=xsmall') {
+    & {
+      margin: $smallMarginSpacing auto $smallMarginSpacing auto;
+    }
+
+    & a{
+      font-size: 0.6rem;
+      padding: 0 1.05rem 0 1.25rem;
+      min-width: 6rem;
+    }
+
+    &:before,
+    &:after {
+      height: calc(#{$smallMarginSpacing} + 1px);
+    }
+
+    &:before {
+      top: calc(-#{$smallMarginSpacing} - 1px);
+    }
+  
+    &:after {
+      bottom: calc(-#{$smallMarginSpacing} - 1px);
+    }
   }
 }

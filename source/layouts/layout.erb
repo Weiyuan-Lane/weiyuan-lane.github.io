@@ -11,7 +11,8 @@
     <noscript><%= stylesheet_link_tag "noscript" %></noscript>
     <link rel="amphtml" href="<%= current_page.data.canonicalLink %>">
   </head>
-  <body class="is-preload">
+  <% bodyClass = current_page.data.bodyClass %>
+  <body<%=  bodyClass ? " class=\"#{bodyClass}\"" : "" %>>
     <script type="application/ld+json">
     {
         "@context": "http://schema.org",

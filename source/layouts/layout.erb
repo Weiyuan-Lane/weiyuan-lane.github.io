@@ -1,11 +1,17 @@
+<% domain = 'https://weiyuan-lane.github.io' %>
 <!doctype html>
 <html>
-	<head>
+  <head>
     <title><%= current_page.data.title %></title>
     <meta name="description" content="<%= current_page.data.description %>">
-		<meta charset="utf-8" />
+    <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <meta name="google-site-verification" content="1yJwtZmUEW1QsrrIvRrXiBHA4O1yBmKeJBxP3txMgrI" />
+    <meta name="twitter:card" content="summary" />
+    <meta property="og:url" content="<%= domain %>/" />
+    <meta property="og:title" content="<%= current_page.data.title %>" />
+    <meta property="og:description" content="<%= current_page.data.description %>" />
+    <meta property="og:image" content="<%= domain %>/images/avatar.jpg" />
     <%= favicon_tag 'favicon.ico' %>
     <%= stylesheet_link_tag "site" %>
     <noscript><%= stylesheet_link_tag "noscript" %></noscript>

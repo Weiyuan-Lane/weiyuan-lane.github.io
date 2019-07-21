@@ -1,5 +1,19 @@
 <% amp ||= false %>
 <% if amp %>
+  <% if data.medium.items.size > 0 %>
+  <% blogpost = data.medium.items[0] %>
+  <% pubTime = Time.parse(blogpost.pubDate) %>
+  <section class="section-article">
+    <div class="article-title">
+      <% link_to blogpost.link, target: '_blank' do %>
+      <span><%= blogpost.title %></span>
+      <% end %>
+    </div>
+    <div class="article-footer">
+      <span class="article-pubdate"><i class="fa fa-clock-o">&nbsp;</i><%= pubTime.strftime("%B %d, %Y") %></span>
+    </div>
+  </section>
+  <% end %>
   <nav class="navbar">
     <ul>
       <li><%= link_to 'More', '/articles' %></li>
@@ -10,11 +24,11 @@
   <% pubTime = Time.parse(blogpost.pubDate) %>
   <section class="section-article">
     <div class="article-title">
-      <% link_to blogpost.link do %>
+      <% link_to blogpost.link, target: '_blank' do %>
       <span><%= blogpost.title %></span>
       <% end %>
     </div>
-    <% link_to blogpost.link, class: 'article-thumbnail' do %>
+    <% link_to blogpost.link, class: 'article-thumbnail', target: '_blank' do %>
     <%= image_tag blogpost.thumbnail %>
     <% end %>
     <div class="article-footer">

@@ -59,6 +59,70 @@
   }
 }
 
+.section-article {
+  $articleSpacing: 1em;
+  @extend .section-body;
+  padding: 0;
+  overflow: hidden;
+
+  .article-thumbnail {
+    text-align: center;
+    display: block;
+    width: 100%;
+    max-height: 400px;
+    padding: $articleSpacing $articleSpacing 0 $articleSpacing;
+    margin-bottom: $articleSpacing;
+    overflow: hidden;
+
+    img {
+      max-width: 100%;
+    }
+
+    @include breakpoint('<=medium') {
+      max-height: 275px;
+    }
+  
+    @include breakpoint('<=small') {
+      max-height: 200px;
+    }
+  
+    @include breakpoint('<=xsmall') {
+      max-height: 150px;
+    }
+  }
+
+  .article-title {
+    font-weight: 900;
+    font-size: 1.75em;
+    margin: 0;
+    background-color: rgb(245, 245, 245);
+  
+    & a {
+      display: block;
+      padding: $articleSpacing;
+    }
+
+    & a:hover {
+      color: initial;
+    }
+
+    @include breakpoint('<=small') {
+      font-size: 1.25em;
+    }
+  }
+
+  .article-footer {
+    padding: $articleSpacing;
+    background-color: rgb(245, 245, 245);
+    clear: both;
+    overflow: auto;
+
+    .article-pubdate {
+      float: right;
+    }
+  }
+}
+
 #main {
   width: 27em;
   text-align: center;

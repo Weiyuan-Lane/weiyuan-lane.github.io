@@ -4,6 +4,17 @@
       "title": "july, 2019",
       "items": [
         {
+          "date": "24th",
+          "title": "See Eye to Eye, Migrating CI to CloudBuild @ Viki",
+          "eventName": "CI and Data Governance in the Cloud - Google Cloud Platform User Group Singapore",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/12egs5Z0Yr7v6MayQWccWVfArV9c46maT4b_00ecVmgg"
+            }
+          ]
+        },
+        {
           "date": "3rd",
           "title": "Implementing Trigonometry in SCSS and Lessons Learnt",
           "eventName": "Talk.CSS #41 - SingaporeCSS",
@@ -11,6 +22,10 @@
             {
               "type": "video",
               "link": "https://engineers.sg/video/implementing-trigonometry-in-scss-and-lessons-learnt-talk-css-41--3540"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1M56_d9-k_pwTsTNGPj9WYsSrMQpEaXWWrTQSIvharFg"
             }
           ]
         }
@@ -84,6 +99,10 @@
             {
               "type": "video",
               "link": "https://www.engineers.sg/video/make-development-stubbing-easy-for-teammates-singapore-ruby-group--1947"
+            },
+            {
+              "type": "slides",
+              "link": "https://drive.google.com/file/d/0B95NohHeq70BNnRZZmVHMHdBTzA/view"
             }
           ]
         }

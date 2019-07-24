@@ -22,6 +22,8 @@
               <% talk.social.each do |social| %>
                 <% if social.type == 'video' %>
                   <a href="<%= social.link %>" class="button" target="_blank"><i class="fa fa-play-circle"></i> Video</a>
+                <% elsif social.type == 'slides' %>
+                  <a href="<%= social.link %>" class="button" target="_blank"><i class="fa fa-file-powerpoint-o"></i> Slides</a>
                 <% end %>
               <% end %>
             <% end %>

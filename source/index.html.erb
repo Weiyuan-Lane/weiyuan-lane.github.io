@@ -2,7 +2,6 @@
 title: Weiyuan Liu
 description: "All about Weiyuan Liu - his career, interests and social links"
 canonicalLink: "/amp/root/"
-bodyClass: "is-preload"
 ---
 
 <div id="wrapper">
@@ -10,10 +9,3 @@ bodyClass: "is-preload"
   <%= partial "partials/navbar", locals: { activeComponent: 'intro' } %>
   <%= partial "partials/who_am_i" %>
 </div>
-
-<script>
-  if ('addEventListener' in window) {
-    window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-preload\b/, ''); });
-    document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
-  }
-</script>

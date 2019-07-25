@@ -12,10 +12,12 @@
     <meta property="og:title" content="<%= current_page.data.title %>" />
     <meta property="og:description" content="<%= current_page.data.description %>" />
     <meta property="og:image" content="<%= domain %>/images/avatar.jpg" />
+    <meta name="theme-color" content="#98d9c3" />
     <%= favicon_tag 'favicon.ico' %>
     <%= stylesheet_link_tag "site" %>
     <noscript><%= stylesheet_link_tag "noscript" %></noscript>
     <link rel="amphtml" href="<%= current_page.data.canonicalLink %>">
+    <link rel="manifest" href="/pwa/manifest.json">
   </head>
   <% bodyClass = current_page.data.bodyClass %>
   <body<%=  bodyClass ? " class=\"#{bodyClass}\"" : "" %>>
@@ -39,10 +41,24 @@
     <%= yield %>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-138723882-1"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'UA-138723882-1');
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function() {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'UA-138723882-1');
+
+          navigator.serviceWorker.register('/sw.js', { scope: '/' }).then(function(registration) {
+            console.log('ServiceWorker registration successful with scope: ', registration.scope);
+          }, function(err) {
+            console.log('ServiceWorker registration failed: ', err);
+          });
+
+          navigator.serviceWorker.ready.then(function(registration) {
+            console.log('Service Worker Ready');
+          });
+        });
+      }
     </script>
   </body>
 </html>

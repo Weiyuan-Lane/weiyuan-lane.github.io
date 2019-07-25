@@ -1,0 +1,21 @@
+{
+  "short_name": "Weiyuan",
+  "name": "Weiyuan Liu",
+  "icons": [
+    {
+      "src": "/images/avatar-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/avatar-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?utm_source=pwa",
+  "background_color": "#98d9c3",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#98d9c3"
+}

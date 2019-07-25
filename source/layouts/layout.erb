@@ -14,6 +14,7 @@
     <meta property="og:image" content="<%= domain %>/images/avatar.jpg" />
     <meta name="theme-color" content="#98d9c3" />
     <%= favicon_tag 'favicon.ico' %>
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <%= stylesheet_link_tag "site" %>
     <noscript><%= stylesheet_link_tag "noscript" %></noscript>
     <link rel="amphtml" href="<%= current_page.data.canonicalLink %>">
@@ -21,23 +22,8 @@
   </head>
   <% bodyClass = current_page.data.bodyClass %>
   <body<%=  bodyClass ? " class=\"#{bodyClass}\"" : "" %>>
-    <script type="application/ld+json">
-    {
-        "@context": "http://schema.org",
-        "@type": "WebPage",
-        "name": "<%= current_page.data.title %>",
-        "description": "<%= current_page.data.description %>",
-        "publisher": {
-            "@type": "ProfilePage",
-            "name": "Weiyuan Liu's website"
-        },
-        "sameAs": [
-          "https://www.linkedin.com/in/liuweiyuan",
-          "https://github.com/Weiyuan-Lane",
-          "https://medium.com/@weiyuan.liu"
-        ]
-    }
-    </script>
+    <link href="https://fonts.googleapis.com/css?display=swap&family=Source+Sans+Pro:300" rel="stylesheet">
+    <script type="application/ld+json">{"@context":"http://schema.org","@type":"WebPage","name":"<%= current_page.data.title %>","description":"<%= current_page.data.description %>","publisher":{"@type":"ProfilePage","name":"Weiyuan Liu's website"},"sameAs":["https://www.linkedin.com/in/liuweiyuan","https://github.com/Weiyuan-Lane","https://medium.com/@weiyuan.liu"]}</script>
     <%= yield %>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-138723882-1"></script>
     <script>

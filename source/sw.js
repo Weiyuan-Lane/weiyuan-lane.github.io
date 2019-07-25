@@ -1,7 +1,7 @@
 importScripts('/pwa/polyfills/serviceworker-cache.js');
 
 const VERSION = '0.0.1';
-const CACHE_NAME = `CACHE_CATS_${VERSION}`
+const CACHE_NAME = 'CACHE_CATS_'+ VERSION
 const CACHE_ROUTES = [
   '/',
   '/talks/',
@@ -9,18 +9,19 @@ const CACHE_ROUTES = [
 ]
 
 
-class Origin {
-  constructor({ protocol, host}) {
-    if (!protocol || !host) {
-      throw new Error(`class WhiteListedCacheDomains cannot be constructed with protocol: ${protocol}, host: ${host}`)
-    }
+function Origin(props) {
+  const protocol = props.protocol
+  const host = props.host
 
-    this.protocol = protocol
-    this.host = host
+  if (!protocol || !host) {
+    throw new Error('class WhiteListedCacheDomains cannot be constructed with protocol: ' + protocol + ' ' + ', host: ' + host)
   }
 
-  matchOriginOf(url) {
-    return url.startsWith(`${this.protocol}//${this.host}`)
+  this.protocol = protocol
+  this.host = host
+
+  this.matchOriginOf = function(url) {
+    return url.startsWith(this.protocol + '//' + this.host)
   }
 }
 
@@ -60,15 +61,16 @@ self.addEventListener('fetch', function(event) {
     // Miss? Fetch it
     return fetch(event.request).then(function(fetchedResponse) {
       // Check if we received a valid response
-      if(!fetchedResponse || fetchedResponse.status !== 200 || fetchedResponse.type !== 'basic') {
+      if(!fetchedResponse || fetchedResponse.status >= 300) {
         return fetchedResponse;
       }
 
       // ONLY CACHE IF WE WANT TO CACHE IT
       if (isCacheable(event.request.url)) {
         const responseToCache = fetchedResponse.clone();
-        caches.open(CACHE_NAME).then(function(cache) {
+        return caches.open(CACHE_NAME).then(function(cache) {
           cache.put(event.request, responseToCache);
+          return fetchedResponse;
         });
       }
 

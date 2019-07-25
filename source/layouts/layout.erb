@@ -17,6 +17,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <link rel="preconnect" href="https://www.google-analytics.com/" crossorigin>
     <%= stylesheet_link_tag "site" %>
+    <%= stylesheet_link_tag "https://fonts.googleapis.com/css?display=swap&family=Source+Sans+Pro:300", rel: "preload", as: "style", onload: "this.rel='stylesheet'" %>
     <noscript><%= stylesheet_link_tag "noscript" %></noscript>
     <link rel="amphtml" href="<%= current_page.data.canonicalLink %>">
     <link rel="manifest" href="/pwa/manifest.json">

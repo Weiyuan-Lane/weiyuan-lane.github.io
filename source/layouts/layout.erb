@@ -20,7 +20,6 @@
     <noscript><%= stylesheet_link_tag "noscript" %></noscript>
     <link rel="amphtml" href="<%= current_page.data.canonicalLink %>">
     <link rel="manifest" href="/pwa/manifest.json">
-    <link href="https://fonts.googleapis.com/css?display=swap&family=Source+Sans+Pro:300" rel="stylesheet">
   </head>
   <% bodyClass = current_page.data.bodyClass %>
   <body<%=  bodyClass ? " class=\"#{bodyClass}\"" : "" %>>

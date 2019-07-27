@@ -1,13 +1,13 @@
 importScripts('/pwa/polyfills/serviceworker-cache.js');
 
-const VERSION = '0.0.1';
+const VERSION = '0.0.3';
 const CACHE_NAME = 'CACHE_CATS_'+ VERSION
 const CACHE_ROUTES = [
   '/',
   '/talks/',
   '/articles/',
 ]
-
+console.log('Cache at', CACHE_NAME)
 
 function Origin(props) {
   const protocol = props.protocol

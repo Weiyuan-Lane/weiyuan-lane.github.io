@@ -1,6 +1,6 @@
 importScripts('/pwa/polyfills/serviceworker-cache.js');
 
-const VERSION = '0.0.5';
+const VERSION = '0.0.6';
 const CACHE_NAME = 'CACHE_CATS_'+ VERSION
 const CACHE_ROUTES = [
   '/',

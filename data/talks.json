@@ -1,6 +1,22 @@
 {
   "cycles": [
     {
+      "title": "august, 2019",
+      "items": [
+        {
+          "date": "16th",
+          "title": "Keep Your Hands Off, Going \"Serverless\" with GCP",
+          "eventName": "I/O Extended Pampanga - GDG Philipines",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://weiyuan-lane.github.io/slides/events/keeping-your-hands-off-the-servers-2019-07-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "july, 2019",
       "items": [
         {

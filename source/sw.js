@@ -4,8 +4,6 @@ const VERSION = '0.0.6';
 const CACHE_NAME = 'CACHE_CATS_'+ VERSION
 const CACHE_ROUTES = [
   '/',
-  '/talks/',
-  '/articles/',
 ]
 console.log('Cache at', CACHE_NAME)
 
@@ -50,31 +48,52 @@ self.addEventListener('install', function(event) {
   );
 });
 
+function cachePromise(request, response) {
+  return caches.open(CACHE_NAME).then(function(cache) {
+    const responseToCache = response.clone();
+    cache.put(request, responseToCache);
+    return response;
+  })
+}
 
-self.addEventListener('fetch', function(event) { 
-  event.respondWith(caches.open(CACHE_NAME).then(function(cache) {
-    return cache.match(event.request).then(function(cachedResponse) {
+function retrievePromise(request, response) {
+  return caches.open(CACHE_NAME).then(function(cache) {
+    return cache.match(request).then(function(cachedResponse) {
       // Cache hit - return response
       if (cachedResponse) {
-        return cachedResponse;
+        return cachedResponse
       }
 
-      // Miss? Fetch it
-      return fetch(event.request).then(function(fetchedResponse) {
-        // Check if we received a valid response
-        if(!fetchedResponse || fetchedResponse.status >= 300) {
-          return fetchedResponse;
-        }
-
-        // ONLY CACHE IF WE WANT TO CACHE IT
-        if (isCacheable(event.request.url)) {
-          const responseToCache = fetchedResponse.clone();
-          cache.put(event.request, responseToCache);
-          return fetchedResponse;
-        }
-
-        return fetchedResponse;
-      })
+      // Cache miss - return response
+      return response
     })
+  })
+}
+
+// For each fetched request
+self.addEventListener('fetch', function(event) {
+  const { request } = event
+  event.respondWith(fetch(request).then(function(fetchedResponse) {
+    console.log(request.url, fetchedResponse.status)
+    // Redirects - just return
+    if (fetchedResponse && fetchedResponse.status >= 300 && fetchedResponse.status <= 399) {
+      return fetchedResponse
+    }
+
+    // Valid response - cache
+    if (isCacheable(request.url, fetchedResponse) && fetchedResponse &&
+        fetchedResponse.status >= 200 && fetchedResponse.status <= 299) {
+      return cachePromise(request, fetchedResponse)
+    }
+
+    // Invalid responses - failover cache retrieve
+    if (fetchedResponse && fetchedResponse.status >= 400 && fetchedResponse.status <= 599) {
+      return retrievePromise(request, fetchedResponse)
+    }
+
+    // If cannot evaluate to anything, return fetched response
+    return fetchedResponse
+  }).catch(function(errResponse) {
+    return retrievePromise(request, errResponse)
   }))
-});
+})

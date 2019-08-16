@@ -72,28 +72,27 @@ function retrievePromise(request, response) {
 
 // For each fetched request
 self.addEventListener('fetch', function(event) {
-  const { request } = event
+  const request = event.request;
   event.respondWith(fetch(request).then(function(fetchedResponse) {
-    console.log(request.url, fetchedResponse.status)
     // Redirects - just return
     if (fetchedResponse && fetchedResponse.status >= 300 && fetchedResponse.status <= 399) {
-      return fetchedResponse
+      return fetchedResponse;
     }
 
     // Valid response - cache
     if (isCacheable(request.url, fetchedResponse) && fetchedResponse &&
         fetchedResponse.status >= 200 && fetchedResponse.status <= 299) {
-      return cachePromise(request, fetchedResponse)
+      return cachePromise(request, fetchedResponse);
     }
 
     // Invalid responses - failover cache retrieve
     if (fetchedResponse && fetchedResponse.status >= 400 && fetchedResponse.status <= 599) {
-      return retrievePromise(request, fetchedResponse)
+      return retrievePromise(request, fetchedResponse);
     }
 
     // If cannot evaluate to anything, return fetched response
-    return fetchedResponse
+    return fetchedResponse;
   }).catch(function(errResponse) {
-    return retrievePromise(request, errResponse)
+    return retrievePromise(request, errResponse);
   }))
 })

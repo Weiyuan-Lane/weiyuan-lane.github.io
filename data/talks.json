@@ -1,6 +1,37 @@
 {
   "cycles": [
     {
+      "title": "september, 2019",
+      "items": [
+        {
+          "date": "28th",
+          "title": "GCP Essentials - Brief Look | Cloud Storage: Qwik Start - CLI/SDK",
+          "eventName": "JUMP START INTO GOOGLE CLOUD CERTIFICATIONS - PART 1",
+          "social": [
+            {
+              "type": "photos",
+              "link": "https://photos.google.com/share/AF1QipOH6lkaX-nwmmMh1CUjQ1RG-ccG52a24DO7UUwGmxFaxVzPZGgRvZ6HLNu9wOIuUw?key=ZjBMZFNyY3FWRVhITE9tY2QzZjdYeVVHU1JfSld3"
+            }
+          ]
+        },
+        {
+          "date": "27th",
+          "title": "Augmenting my site with AMP",
+          "eventName": "JuniorDevSG Code and Tell - Sep 2019",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://engineers.sg/video/augmenting-my-own-site-with-accelerated-mobile-pages-amp-junior-developers-singapore--3651"
+            },
+            {
+              "type": "slides",
+              "link": "https://weiyuan-lane.github.io/slides/events/augmenting-my-own-site-with-accelerated-mobile-pages-2019-09-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "august, 2019",
       "items": [
         {

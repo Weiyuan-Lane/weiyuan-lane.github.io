@@ -24,6 +24,21 @@
       "title": "october, 2019",
       "items": [
         {
+          "date": "18th",
+          "title": "Implementing Trigonometry in SCSS, and lessons learnt",
+          "eventName": "Geekcamp Singapore 2019",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://weiyuan-lane.github.io/slides/events/css-with-trigonometry-2019-10-19"
+            },
+            {
+              "type": "photos",
+              "link": "https://www.facebook.com/pg/GeekcampSG/photos/?tab=album&album_id=586562204781970"
+            }
+          ]
+        },
+        {
           "date": "9th",
           "title": "Why Google Cloud? - AI, Data and Infrastructure Differentiators (Panel discussion)",
           "eventName": "Cloud Expo Asia 2019",

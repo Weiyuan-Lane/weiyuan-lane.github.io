@@ -4,6 +4,25 @@
       "title": "october, 2019",
       "items": [
         {
+          "date": "23rd",
+          "title": "Doing More with Server(Less)",
+          "eventName": "La Kopi @ Developer Space (Serverless)",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://weiyuan-lane.github.io/slides/events/la-kopi-serverless-2019-10-23"
+            },
+            {
+              "type": "video",
+              "link": "https://www.linkedin.com/posts/liuweiyuan_where-do-i-start-i-had-this-mad-idea-activity-6592794697075392512-WCuq"
+            },
+            {
+              "type": "photos",
+              "link": "https://www.facebook.com/pg/DevSpaceSG/photos/?tab=album&album_id=626394734431635"
+            }
+          ]
+        },
+        {
           "date": "18th",
           "title": "Implementing Trigonometry in SCSS, and lessons learnt",
           "eventName": "Geekcamp Singapore 2019",

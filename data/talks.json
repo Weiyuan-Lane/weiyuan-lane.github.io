@@ -1,6 +1,45 @@
 {
   "cycles": [
     {
+      "title": "november, 2019",
+      "items": [
+        {
+          "date": "9th",
+          "title": "Opening Note",
+          "eventName": "Cloud DevFest 2019 - GDG Cloud Singapore",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://drive.google.com/open?id=14Z7y6n6qEDSCOVkcYo2NjIR5kNj-rhm-5DX-1nb_vVs"
+            },
+            {
+              "type": "video",
+              "link": "https://engineers.sg/video/opening-note-gdg-cloud-singapore-devfest-2019--3761"
+            },
+            {
+              "type": "photos",
+              "link": "https://www.facebook.com/media/set/?set=oa.2412906742294178&type=3"
+            }
+          ]
+        },
+        {
+          "date": "9th",
+          "title": "Cloud Build, one year since then ...",
+          "eventName": "Cloud DevFest 2019 - GDG Cloud Singapore",  
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://drive.google.com/open?id=1YIY9vxp8Ek2qdY8ZcFAYTP551ZKRSx4vmLswkXE1gds"
+            },
+            {
+              "type": "video",
+              "link": "https://engineers.sg/video/cloud-build-one-year-since-then-gdg-cloud-singapore-devfest-2019--3768"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "october, 2019",
       "items": [
         {

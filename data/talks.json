@@ -4,6 +4,17 @@
       "title": "november, 2019",
       "items": [
         {
+          "date": "23rd",
+          "title": "What the ... Backend ?!! (Introducing Node.js, Express.JS and Sequelize)",
+          "eventName": "Techladies Bootcamp #5, Week 5",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1gTg9EL2esfXQGtBfxADc5QeYlDPBx1etpldPQzxzxMY/edit?usp=sharing"
+            }
+          ]
+        },
+        {
           "date": "9th",
           "title": "Opening Note",
           "eventName": "Cloud DevFest 2019 - GDG Cloud Singapore",
@@ -73,6 +84,10 @@
             {
               "type": "photos",
               "link": "https://www.facebook.com/pg/GeekcampSG/photos/?tab=album&album_id=586562204781970"
+            },
+            {
+              "type": "video",
+              "link": "https://engineers.sg/video/implementing-trigonometry-in-scss-and-lessons-learnt-geekcampsg-2019--3719"
             }
           ]
         },

@@ -4,6 +4,17 @@
       "title": "november, 2019",
       "items": [
         {
+          "date": "30th",
+          "title": "Doing more with Server(less)",
+          "eventName": "DevFest Singapore 2019",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1XmLzCUPlbX9iO_siPPkmw8Y3LMmaEMn2ie5kZVMUs6E"
+            }
+          ]
+        },
+        {
           "date": "23rd",
           "title": "What the ... Backend ?!! (Introducing Node.js, Express.JS and Sequelize)",
           "eventName": "Techladies Bootcamp #5, Week 5",

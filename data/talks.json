@@ -1,6 +1,22 @@
 {
   "cycles": [
     {
+      "title": "april, 2020",
+      "items": [
+        {
+          "date": "17th",
+          "title": "MajulahGCP Webinar #1",
+          "eventName": "GDG Cloud Singapore Online",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=njLFmehO_OY"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "november, 2019",
       "items": [
         {

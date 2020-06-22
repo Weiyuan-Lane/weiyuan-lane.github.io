@@ -1,6 +1,60 @@
 {
   "cycles": [
     {
+      "title": "june, 2020",
+      "items": [
+        {
+          "date": "4th",
+          "title": "Webinar #4 - Serverless Containers with Knative and Cloud Run",
+          "eventName": "GDG Cloud Singapore Online",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=2Xx9VhRyWws"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "may, 2020",
+      "items": [
+        {
+          "date": "29th",
+          "title": "Secrets and Serverless in Google Cloud",
+          "eventName": "SGInnovate: Developers Meetup: Google Cloud Use Cases & Applications",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=n1wtjEmb7eI"
+            }
+          ]
+        }, 
+        {
+          "date": "21st",
+          "title": "Webinar #3 - BigQuery Night",
+          "eventName": "GDG Cloud Singapore Online",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=u6ZnB9vp9d8"
+            }
+          ]
+        }, 
+        {
+          "date": "7th",
+          "title": "Webinar #2 - Interesting feature that come with GKE",
+          "eventName": "GDG Cloud Singapore Online",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=xlWX7iNKag8"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "april, 2020",
       "items": [
         {

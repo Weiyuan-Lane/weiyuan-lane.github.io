@@ -4,6 +4,17 @@
       "title": "june, 2020",
       "items": [
         {
+          "date": "16th",
+          "title": "Migrating From Ruby On Rails To Node.js",
+          "eventName": "VirtualTalk.JS, 17th June",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://engineers.sg/video/virtualtalk-js-17-june--4056"
+            }
+          ]
+        },
+        {
           "date": "4th",
           "title": "Webinar #4 - Serverless Containers with Knative and Cloud Run",
           "eventName": "GDG Cloud Singapore Online",

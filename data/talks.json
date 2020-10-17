@@ -1,8 +1,159 @@
 {
   "cycles": [
     {
+      "title": "october, 2020",
+      "items": [
+        {
+          "date": "17th",
+          "title": "Secrets and Serverless in Google Cloud",
+          "eventName": "DevFest Cloud Indonesia 2020",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1_JJO-oX6uKOKA0ejn4yNqFxmNy2nr2s_E-ScGxVUU_M/edit"
+            },
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=AYlb-JzIL8A"
+            }
+          ]
+        },
+        {
+          "date": "8th",
+          "title": "Webinar #13 - K8s HPA with Custom Metrics",
+          "eventName": "GDG Cloud Singapore Online",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=IxDqs7387YI"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "september, 2020",
+      "items": [
+        {
+          "date": "24th",
+          "title": "Webinar #12 - A Majulah GCP Season 2 Special",
+          "eventName": "GDG Cloud Singapore Online",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=vaYBr6VseFs"
+            }
+          ]
+        },
+        {
+          "date": "10th",
+          "title": "Webinar #11 - Highlights from Cloud Next 2020 Digital (Week 8 - 9)",
+          "eventName": "GDG Cloud Singapore Online",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=DjHTyZMEJmE"
+            }
+          ]
+        },
+        {
+          "date": "5th",
+          "title": "The Future of Data Transfer (as host)",
+          "eventName": "GDG Singapore Online",
+          "social": []
+        }
+      ]
+    },
+    {
+      "title": "august, 2020",
+      "items": [
+        {
+          "date": "27th",
+          "title": "Webinar #10 - Highlights from Cloud Next 2020 Digital (Week 6 - 7)",
+          "eventName": "GDG Cloud Singapore Online",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=EukhkCI9ymI"
+            }
+          ]
+        },
+        {
+          "date": "15th",
+          "title": "Full Cycle People Leadership (as host)",
+          "eventName": "GDG Singapore Online",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=-hksiU_WoiU"
+            }
+          ]
+        },
+        {
+          "date": "13th",
+          "title": "Webinar #9 - Highlights from Cloud Next 2020 Digital (Week 4 - 5)",
+          "eventName": "GDG Cloud Singapore Online",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=nsXgH8wtHOM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "july, 2020",
+      "items": [
+        {
+          "date": "30th",
+          "title": "Webinar #8 - Highlights from Cloud Next 2020 Digital (Week 1 - 3)",
+          "eventName": "GDG Cloud Singapore Online",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=f91fG7poyuE"
+            }
+          ]
+        },
+        {
+          "date": "16th",
+          "title": "Webinar #7 - Untold Story of Your Code: Mining Software Development History with Deep Learning",
+          "eventName": "GDG Cloud Singapore Online",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=PUKTCLwTqN0"
+            }
+          ]
+        },
+        {
+          "date": "2nd",
+          "title": "Webinar #6 - Bigquery Night #2",
+          "eventName": "GDG Cloud Singapore Online",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=n8nAUBGX4Ls"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "june, 2020",
       "items": [
+        {
+          "date": "18th",
+          "title": "Webinar #5 - Building a Machine Learning based KYC system",
+          "eventName": "GDG Cloud Singapore Online",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=gJlfz_B5W7c"
+            }
+          ]
+        },
         {
           "date": "16th",
           "title": "Migrating From Ruby On Rails To Node.js",

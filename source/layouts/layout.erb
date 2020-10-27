@@ -25,7 +25,7 @@
   </head>
   <% bodyClass = current_page.data.bodyClass %>
   <body<%=  bodyClass ? " class=\"#{bodyClass}\"" : "" %>>
-    <script type="application/ld+json">{"@context":"http://schema.org","@type":"WebPage","name":"<%= current_page.data.title %>","description":"<%= current_page.data.description %>","publisher":{"@type":"ProfilePage","name":"Weiyuan Liu's website"},"sameAs":["https://www.linkedin.com/in/liuweiyuan","https://github.com/Weiyuan-Lane","https://medium.com/@weiyuan.liu"]}</script>
+    <script type="application/ld+json">{"@context":"http://schema.org","@type":"WebPage","name":"<%= current_page.data.title %>","description":"<%= current_page.data.description %>","publisher":{"@type":"ProfilePage","name":"Weiyuan Liu's website"},"sameAs":["https://www.linkedin.com/in/liuweiyuan","https://github.com/Weiyuan-Lane","https://weiyuan-liu.medium.com"]}</script>
     <%= yield %>
     <script defer async src="https://www.googletagmanager.com/gtag/js?id=UA-138723882-1"></script>
     <script>

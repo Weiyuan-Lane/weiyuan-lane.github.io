@@ -4,6 +4,36 @@
       "title": "october, 2020",
       "items": [
         {
+          "date": "29th",
+          "title": "Secrets and Serverless in Google Cloud",
+          "eventName": "Devfest Afghanistan 2020 Day 1",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1O1G94WRZqGl-ImfhyQTyVh9YG1eEFqSAXsgmudzWcAE/edit"
+            },
+            {
+              "type": "video",
+              "link": "https://youtu.be/oqz6SUzHzSY?t=6943"
+            }
+          ]
+        },
+        {
+          "date": "18th",
+          "title": "Secrets and Serverless in Google Cloud",
+          "eventName": "GDG Philippines DevFest 2020: Plenary Session Day 2",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1_JJO-oX6uKOKA0ejn4yNqFxmNy2nr2s_E-ScGxVUU_M/edit"
+            },
+            {
+              "type": "video",
+              "link": "https://youtu.be/6wCLai4nKhc?t=3300"
+            }
+          ]
+        },
+        {
           "date": "17th",
           "title": "Secrets and Serverless in Google Cloud",
           "eventName": "DevFest Cloud Indonesia 2020",
@@ -14,7 +44,7 @@
             },
             {
               "type": "video",
-              "link": "https://www.youtube.com/watch?v=AYlb-JzIL8A"
+              "link": "https://youtu.be/AYlb-JzIL8A?t=10536"
             }
           ]
         },

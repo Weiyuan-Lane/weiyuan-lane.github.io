@@ -1,8 +1,43 @@
 {
   "cycles": [
     {
+      "title": "november, 2020",
+      "items": [
+        {
+          "date": "5th",
+          "title": "GCP Qwiklabs Demo",
+          "eventName": "GCP Boleh Season 2 Webinar",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1LTRse9CwxjQuVbNqbXrf92tRH0SlRjArxAYHGhWawL4/edit?usp=sharing"
+            },
+            {
+              "type": "video",
+              "link": "https://youtu.be/yzrcu4PD2II?t=1698"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "october, 2020",
       "items": [
+        {
+          "date": "31st",
+          "title": "Opening note",
+          "eventName": "GDG Cloud Singapore Devfest 2020",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1BKwi3OroZztT-1YgnbNSTXWuzqabQugDin96BqXDBr8/edit?usp=sharing"
+            },
+            {
+              "type": "video",
+              "link": "https://youtu.be/4KZkBJFOgrQ?t=577"
+            }
+          ]
+        },
         {
           "date": "29th",
           "title": "Secrets and Serverless in Google Cloud",

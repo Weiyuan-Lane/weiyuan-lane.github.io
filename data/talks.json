@@ -1,6 +1,37 @@
 {
   "cycles": [
     {
+      "title": "january, 2021",
+      "items": [
+        {
+          "date": "16th",
+          "title": "Implementing Trigonometry in SCSS, and lessons learnt",
+          "eventName": "Chrome Dev Summit Extended - GDG Kuala Lumpur",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://weiyuan-lane.github.io/slides/events/css-with-trigonometry-2021-01-16"
+            },
+            {
+              "type": "video",
+              "link": "https://youtu.be/ANfNYKmlVP8?t=174"
+            }
+          ]
+        },
+        {
+          "date": "16th",
+          "title": "Lessons Learned in 20 Years of Engineering Leadership (as host)",
+          "eventName": "GDG Singapore Online",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=xeK9LHGgLVA"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "november, 2020",
       "items": [
         {

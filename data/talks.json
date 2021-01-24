@@ -4,6 +4,17 @@
       "title": "january, 2021",
       "items": [
         {
+          "date": "23th",
+          "title": "Technical and Non-technical tips, from a SWE",
+          "eventName": "Guest Speaking at General Assembly",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://weiyuan-lane.github.io/slides/events/technical-and-non-technical-tips-swe-2021-01-23"
+            }
+          ]
+        },
+        {
           "date": "16th",
           "title": "Implementing Trigonometry in SCSS, and lessons learnt",
           "eventName": "Chrome Dev Summit Extended - GDG Kuala Lumpur",

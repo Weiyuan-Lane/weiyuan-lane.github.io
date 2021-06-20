@@ -1,6 +1,22 @@
 {
   "cycles": [
     {
+      "title": "june, 2021",
+      "items": [
+        {
+          "date": "19th",
+          "title": "Love Letter of a Decade",
+          "eventName": "Guest Speaking at General Assembly",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://weiyuan-lane.github.io/slides/events/the-love-letter-of-a-decade-2021-06-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "january, 2021",
       "items": [
         {

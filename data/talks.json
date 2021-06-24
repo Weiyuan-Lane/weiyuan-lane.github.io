@@ -17,6 +17,22 @@
       ]
     },
     {
+      "title": "march, 2021",
+      "items": [
+        {
+          "date": "24th",
+          "title": "Life as a Google Developer Expert",
+          "eventName": "Cloud Technical Series",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=Up2nmoVMoKc"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "january, 2021",
       "items": [
         {

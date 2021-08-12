@@ -1,6 +1,22 @@
 {
   "cycles": [
     {
+      "title": "july, 2021",
+      "items": [
+        {
+          "date": "31st",
+          "title": "\"Live-Streaming\" with Google Cloud",
+          "eventName": "I/O Extended Cebu",
+          "social": [
+            {
+              "type": "video",
+              "link": "https://www.facebook.com/watch/live/?v=370719087916477"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "june, 2021",
       "items": [
         {

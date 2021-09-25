@@ -10,7 +10,11 @@
           "social": [
             {
               "type": "video",
-              "link": "https://www.facebook.com/watch/live/?v=370719087916477"
+              "link": "https://www.facebook.com/watch/live/?v=370719087916477&t=1242"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1UEb1g1ezlUFRrerJyaMumfYs8WGzmGiwH1p2KtzHrec/edit?usp=sharing"
             }
           ]
         }

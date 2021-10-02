@@ -1,6 +1,26 @@
 {
   "cycles": [
     {
+      "title": "September, 2021",
+      "items": [
+        {
+          "date": "30th",
+          "title": "\"Live-Streaming\" with Google Cloud",
+          "eventName": "DSC Universiti Teknologi Petronas",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1kIIe9rvzDcMRi4xjuBdoQrSBEe7mPc5L4E4ljjYkQe8/edit?usp=sharing"
+            },
+            {
+              "type": "photos",
+              "link": "https://gdsc.community.dev/events/details/developer-student-clubs-universiti-teknologi-petronas-presents-live-streaming-with-google-cloud-platform/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "july, 2021",
       "items": [
         {

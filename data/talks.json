@@ -1,6 +1,33 @@
 {
   "cycles": [
     {
+      "title": "November, 2021",
+      "items": [
+        {
+          "date": "27th",
+          "title": "\"Live-Streaming\" with Google Cloud",
+          "eventName": "GDG Hong Kong DevFest",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1fOYGY_nrQWy7XZbfUx7sHT1mKm_BWKQp8GpRCQCcjmw"
+            }
+          ]
+        },
+        {
+          "date": "12th",
+          "title": "\"Live-Streaming\" with Google Cloud",
+          "eventName": "GDG West Sweden DevFest",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1qeMsh6PGvwWlRxMqVRs4VXCGR0xZQBhdKx0_c0VtFJo"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "September, 2021",
       "items": [
         {

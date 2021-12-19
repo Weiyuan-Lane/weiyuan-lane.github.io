@@ -7,3 +7,4 @@ gem 'middleman-minify-html'
 gem 'middleman-imageoptim'
 gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 gem 'wdm', '~> 0.1', platforms: [:mswin, :mingw]
+gem 'ffi', '1.14.0'

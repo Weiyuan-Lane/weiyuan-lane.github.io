@@ -1,6 +1,26 @@
 {
   "cycles": [
     {
+      "title": "January, 2022",
+      "items": [
+        {
+          "date": "29th",
+          "title": "\"Live-Streaming\" with Google Cloud",
+          "eventName": "DEVFEST UK & IRELAND",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/13-hN3xFpqYtveaeSuUkG9IvL5LbB9-ovvCwN-lKQHBI/"
+            },
+            {
+              "type": "video",
+              "link": "https://youtu.be/jVHII1IJVxc?t=5745"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "November, 2021",
       "items": [
         {

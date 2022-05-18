@@ -1,6 +1,26 @@
 {
   "cycles": [
     {
+      "title": "May, 2022",
+      "items": [
+        {
+          "date": "18th",
+          "title": "Case Studies, with Google Cloud",
+          "eventName": "HackFest 2022: Google Cloud Bootcamp",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1fFsY0YCscFqx7WWMk_VXF9wuOxHWzCxom_LfiSJq7_c"
+            },
+            {
+              "type": "video",
+              "link": "https://youtu.be/N0UA7DgeFBY?t=2650"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "January, 2022",
       "items": [
         {

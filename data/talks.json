@@ -1,6 +1,26 @@
 {
   "cycles": [
     {
+      "title": "July, 2022",
+      "items": [
+        {
+          "date": "23rd",
+          "title": "Going Wild, with Google Cloud",
+          "eventName": "I/O Extended Singapore 2022",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1_WvJrXoCs0AV2hQMPLsnQMw5gT3S8mU1jctXLpN-cog/edit#slide=id.g13d49d0018e_0_8"
+            },
+            {
+              "type": "photos",
+              "link": "https://www.facebook.com/media/set/?set=a.1276824042722031&type=3"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "May, 2022",
       "items": [
         {

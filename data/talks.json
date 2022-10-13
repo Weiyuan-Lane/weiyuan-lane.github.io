@@ -1,6 +1,26 @@
 {
   "cycles": [
     {
+      "title": "October, 2022",
+      "items": [
+        {
+          "date": "10th",
+          "title": "What should I use the \"Cloud\" for?",
+          "eventName": "CS3216 Week 9",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1XB3zjyTEgBXt6VSRwEs5GsYF1ylaIIR7pSXTCEKjQNA"
+            },
+            {
+              "type": "photos",
+              "link": "https://www.linkedin.com/feed/update/urn:li:activity:6985394134719086592/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "July, 2022",
       "items": [
         {

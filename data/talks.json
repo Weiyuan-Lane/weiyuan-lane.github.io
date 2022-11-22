@@ -1,6 +1,26 @@
 {
   "cycles": [
     {
+      "title": "November, 2022",
+      "items": [
+        {
+          "date": "19th",
+          "title": "PG-14 Content 🤫 on Google Cloud",
+          "eventName": "GDG DevFest 2022 Manila",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1hCpeusQBA1_veUaayl-3oFGz8C0yTE1l9d7QibxdZT4"
+            },
+            {
+              "type": "photos",
+              "link": "https://www.facebook.com/gdgphilippines/photos/a.200859023379370/2677504495714798/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "October, 2022",
       "items": [
         {

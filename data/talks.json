@@ -4,6 +4,21 @@
       "title": "November, 2022",
       "items": [
         {
+          "date": "26th",
+          "title": "PG-14 Content 🤫 on Google Cloud",
+          "eventName": "DevFest Singapore 2022 - GDG Singapore",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1hCpeusQBA1_veUaayl-3oFGz8C0yTE1l9d7QibxdZT4"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-devfest-singapore-2022/"
+            }
+          ]
+        },
+        {
           "date": "19th",
           "title": "PG-14 Content 🤫 on Google Cloud",
           "eventName": "GDG DevFest 2022 Manila",
@@ -15,6 +30,10 @@
             {
               "type": "photos",
               "link": "https://www.facebook.com/gdgphilippines/photos/a.200859023379370/2677504495714798/"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-manila-presents-gdg-devfest-2022-manila/"
             }
           ]
         }

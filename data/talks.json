@@ -1,6 +1,75 @@
 {
   "cycles": [
     {
+      "title": "December, 2022",
+      "items": [
+        {
+          "date": "19th",
+          "title": "PG-14 Content 🤫 on Google Cloud",
+          "eventName": "DevFest Cloud Bangkok 2022",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1hCpeusQBA1_veUaayl-3oFGz8C0yTE1l9d7QibxdZT4"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-cloud-bangkok-presents-devfest-cloud-bangkok-2022/"
+            }
+          ]
+        },
+        {
+          "date": "15th",
+          "title": "A Decade in 10 minutes-ish",
+          "eventName": "Student meetup event, Developer Space @ Google Singapore",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1CzNacoyxWcJmmYAdCTzxZGY2u652w1s9uLjZNN4XdkM"
+            },
+            {
+              "type": "event",
+              "link": "https://www.linkedin.com/feed/update/urn:li:activity:7012662745833631744/"
+            }
+          ]
+        },
+        {
+          "date": "4th",
+          "title": "PG-14 Content 🤫 on Google Cloud",
+          "eventName": "DevFest Brunei 2022",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1hCpeusQBA1_veUaayl-3oFGz8C0yTE1l9d7QibxdZT4"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-brunei-darussalam-presents-devfest-brunei-2022/"
+            }
+          ]
+        }, 
+        {
+          "date": "3rd",
+          "title": "PG-14 Content 🤫 on Google Cloud",
+          "eventName": "DevFest 2022 Kuala Lumpur",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1hCpeusQBA1_veUaayl-3oFGz8C0yTE1l9d7QibxdZT4"
+            },
+            {
+              "type": "photos",
+              "link": "https://www.facebook.com/media/set/?vanity=GDGKualaLumpur&set=a.5702339649843275"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-kuala-lumpur-presents-devfest-2022-kuala-lumpur/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "November, 2022",
       "items": [
         {

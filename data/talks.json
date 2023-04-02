@@ -1,6 +1,38 @@
 {
   "cycles": [
     {
+      "title": "April, 2023",
+      "items": [
+        {
+          "date": "2nd",
+          "title": "Prepping for your next Cloud Certification?",
+          "eventName": "GeeksHacking certification preparation",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/10QopfbyHLGhM2U6SKytNaueGv7uzRh25CJ2OJhi-YXw"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "March, 2023",
+      "items": [
+        {
+          "date": "30th",
+          "title": "Engineering @ Grab",
+          "eventName": "GrabDiscover",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://www.linkedin.com/feed/update/urn:li:activity:7047206261976690688/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "December, 2022",
       "items": [
         {

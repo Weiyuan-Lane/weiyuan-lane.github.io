@@ -1,6 +1,30 @@
 {
   "cycles": [
     {
+      "title": "July, 2023",
+      "items": [
+        {
+          "date": "29th",
+          "title": "Prepping for your next Cloud Certification?",
+          "eventName": "Google I/O Extended Cloud Edition 2023",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1cc-mQavYgkmCH9PMgJ6fyPKUMQ1xQ_uzxZo4U5ig5Zs/edit?usp=sharing&resourcekey=0-NdJBPCWyTQx496-y30Q-Wg"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-cloud-singapore-presents-google-io-extended-cloud-edition-2023/"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/7xGkWdpTkQmuHaFv8"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "April, 2023",
       "items": [
         {
@@ -10,7 +34,7 @@
           "social": [
             {
               "type": "slides",
-              "link": "https://docs.google.com/presentation/d/10QopfbyHLGhM2U6SKytNaueGv7uzRh25CJ2OJhi-YXw"
+              "link": "https://docs.google.com/presentation/d/10QopfbyHLGhM2U6SKytNaueGv7uzRh25CJ2OJhi-YXw/edit?usp=sharing&resourcekey=0--yiikIGva2YW33bLPPjMsg"
             }
           ]
         }

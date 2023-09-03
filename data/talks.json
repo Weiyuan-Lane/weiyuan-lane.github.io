@@ -1,6 +1,26 @@
 {
   "cycles": [
     {
+      "title": "September, 2023",
+      "items": [
+        {
+          "date": "3rd",
+          "title": "Prepping for your Cloud Certification?",
+          "eventName": "GDG SEA Summit 2023",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1KosYjfzvYmIcKFraT-krRQm4tee5kPNYT7D813ZpR3o/edit?resourcekey=0-kBnuNA5vWtSpEEs0MDxMFA"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/CqDFg9bf3Vz7igfF9"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "July, 2023",
       "items": [
         {

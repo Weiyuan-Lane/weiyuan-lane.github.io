@@ -4,6 +4,21 @@
       "title": "September, 2023",
       "items": [
         {
+          "date": "29th",
+          "title": "Migrating to GKE? The lessons I learned when moving to Google Cloud",
+          "eventName": "K8SUG (Kubernetes) Meetup @Google - 29th Sept. 2023",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://www.meetup.com/k8s-sg/events/296120672/"
+            },
+            {
+              "type": "photos",
+              "link": "https://www.linkedin.com/feed/update/urn:li:activity:7113701924205449216/"
+            }
+          ]
+        },
+        {
           "date": "3rd",
           "title": "Prepping for your Cloud Certification?",
           "eventName": "GDG SEA Summit 2023",

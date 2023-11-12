@@ -1,6 +1,26 @@
 {
   "cycles": [
     {
+      "title": "October, 2023",
+      "items": [
+        {
+          "date": "12th",
+          "title": "Making a call via the internet? Let's use Google Cloud and WebRTC!",
+          "eventName": "Geekcamp Singapore 2023",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://geekcamp.sg"
+            },
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=uCznoc3TJiw"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "September, 2023",
       "items": [
         {

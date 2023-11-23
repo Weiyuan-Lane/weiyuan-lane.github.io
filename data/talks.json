@@ -1,6 +1,45 @@
 {
   "cycles": [
     {
+      "title": "November, 2023",
+      "items": [
+        {
+          "date": "18th",
+          "title": "Empower Your Dev Journey: Ask the Cloud Experts",
+          "eventName": "DevFest Singapore 2023",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-devfest-singapore-2023/"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.google.com/share/AF1QipMUKcgfa7LSBw59nHOsoa33AxGvQWzRhDk2yRJ-C4GC7WzE94-mE9--iuDRm_DGZQ?pli=1&key=M0pKNXNSd2tFazBYT0Qxd2ZLNkhGd0VzYmFjcmpn"
+            }
+          ]
+        },
+        {
+          "date": "18th",
+          "title": "Making a call via the internet? Let's use Google Cloud and WebRTC!",
+          "eventName": "DevFest Singapore 2023",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-devfest-singapore-2023/"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1jA4YqjPArpQXP9QcKrGa0VWOFDJ559tJZTyUDcu4zts/edit"
+            },
+            {
+              "type": "photos",
+              "link": "https://www.linkedin.com/feed/update/urn:li:activity:7132353708872388608/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "October, 2023",
       "items": [
         {
@@ -15,6 +54,10 @@
             {
               "type": "video",
               "link": "https://www.youtube.com/watch?v=uCznoc3TJiw"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1Emx0tqxKSpGtntKnSQcVB6aavP3oRipqS211V5lKmaM/edit"
             }
           ]
         }

@@ -4,6 +4,25 @@
       "title": "November, 2023",
       "items": [
         {
+          "date": "26th",
+          "title": "Making a call via the internet? Let's use Google Cloud and WebRTC!",
+          "eventName": "DevFest Jogjakarta 2023",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-jogjakarta-presents-devfest-jogjakarta-2023/"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1-a5vNutN56i2jt_E7nO8gAdlXaVoARetqOBRrx6BI0Y/edit"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.google.com/share/AF1QipPsUBDmhIPRXxPYEQHUHWMt2dDJzrZjkFaDon3LKar5ctQwOoucxPJdZL_42z3Eag/photo/AF1QipMHxJPQ9dEHjIaCLbyEhF3jOeqFcSBI7mwKm05O?key=SjhRSGdWTDNRRjU1OVp5eFljVjZfYTRyYmhBdkRR"
+            }
+          ]
+        },
+        {
           "date": "18th",
           "title": "Empower Your Dev Journey: Ask the Cloud Experts",
           "eventName": "DevFest Singapore 2023",

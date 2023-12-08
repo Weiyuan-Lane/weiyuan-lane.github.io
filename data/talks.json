@@ -1,6 +1,30 @@
 {
   "cycles": [
     {
+      "title": "December, 2023",
+      "items": [
+        {
+          "date": "2nd",
+          "title": "Making a call via the internet? Let's use Google Cloud and WebRTC!",
+          "eventName": "DevFest 2023 Kuala Lumpur",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-kuala-lumpur-presents-devfest-2023-kuala-lumpur/"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/13HKJ0oXcI9UbjCji4LQZkjWguhvGVF8oYmdNLZlFdtk/edit"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.google.com/share/AF1QipP8cdQ5j9X4wvbrFjsSjU6Czzoeeknbg18MI3l-DsCa3tnc656J0FdpfZwt1lCLeg?key=cWRLaFkwLXYyZGt2SkcxY2tWTDZyOE42eXRIQ2RB"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "November, 2023",
       "items": [
         {

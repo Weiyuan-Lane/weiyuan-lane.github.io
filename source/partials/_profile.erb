@@ -4,7 +4,14 @@
     <% if amp %>
     <span class="avatar"><amp-img src="/images/avatar.jpg" width="160" height="160" alt="avatar"></amp-img></span>
     <% else %>
-    <span class="avatar"><img src="/images/avatar-opt.jpg" alt="Weiyuan Liu" /></span>
+    <span class="avatar">
+      <picture>
+        <source srcset="/images/avatar-opt.webp" type="image/webp">
+        <source srcset="/images/avatar-opt.jpg" type="image/jpeg"> 
+        <img src="/images/avatar-opt.jpg" width="160" height="160" alt="Weiyuan Liu" />
+      </picture>
+      
+    </span>
     <% end %>
     <h1>Weiyuan Liu</h1>
     <p>Engineering Leader<br/>TechWalks &#183; Archipelago</p>

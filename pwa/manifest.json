@@ -5,7 +5,8 @@
     {
       "src": "/images/avatar-192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any maskable"
     },
     {
       "src": "/images/avatar-512.png",

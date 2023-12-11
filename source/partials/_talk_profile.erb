@@ -1,4 +1,7 @@
 <section class="section-body">
   <h1>profile</h1>
-  <p>I have an interest over a range of topics, from Frontend, Backend, to DevOps. As such, I attend a wide array of meetups events, sometimes I participate in them too :P</p>
+  <p>As my domain varies from role to role, based on what I'm problem solving at the moment, I have participated as a speaker in a variety of conferences and meetups in contributing back to the community!</p>
+  <p>I mostly represent my organisation, Google, and myself in these speaking opportunities.</p>
+  <%- total_count = data.talks.cycles.reduce(0) { |t, cycle| t + cycle.items.size } %>
+  <p>Total speaker event count: <strong><%= total_count %></strong></p>
 </section>

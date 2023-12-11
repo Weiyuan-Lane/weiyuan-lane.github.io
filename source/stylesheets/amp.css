@@ -52,7 +52,7 @@ body {
   text-transform: uppercase;
   height: 100%;
   background-color: #ffffff;
-  background-image: linear-gradient(60deg, rgba(253,240,40,0.5) 5%, rgba(120,40,253,0.35));
+  background-image: linear-gradient(60deg, rgba(253,240,40,1) 0%, rgba(0,0,0,1));
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -69,7 +69,7 @@ body:after {
   opacity: 0;
   z-index: 1;
   background-color: #ffffff;
-  background-image: linear-gradient(60deg, rgba(253,240,40,0.5) 5%, rgba(120,40,253,0.35));
+  background-image: linear-gradient(60deg, rgba(253,240,40,1) 0%, rgba(0,0,0,1));
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;

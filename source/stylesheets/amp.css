@@ -224,15 +224,15 @@ nav.navbar li:first-child {
 }
 
 nav.navbar li.active {
-  background-color: rgba(68, 8, 108, 0.2);
+  background-color: rgba(68, 8, 108, 0.625);
 }
 nav.navbar li {
   padding-left: 0;
   border-left: solid 1px #ffffff;
-  background-color: rgba(135, 135, 135, 0.2);
+  background-color: rgba(35, 35, 35, 0.625);
 }
 nav.navbar li:hover {
-  background-color: rgba(208, 208, 208, 0.2);
+  background-color: rgba(135, 135, 135, 0.625);
 }
 nav.navbar:before {
   top: calc(-2.5rem - 1px);

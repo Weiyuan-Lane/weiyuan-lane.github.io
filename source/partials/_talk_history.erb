@@ -9,7 +9,7 @@
   <% data.talks.cycles.each do |cycle| %>
     <% if cycle.items.size > 0 %>
     <section class="section-body">
-      <h1><%= cycle.title %></h1>
+      <h1>🗓️ <%= cycle.title %></h1>
       <hr>
       <% cycle.items.each do |talk| %>
         <%= talk.date %>

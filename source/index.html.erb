@@ -5,6 +5,7 @@ canonicalLink: "/amp/root/"
 ---
 
 <div id="wrapper">
+  <%= partial "partials/navbar", locals: { activeComponent: 'intro' } %>
   <%= partial "partials/profile", locals: { amp: false } %>
   <%= partial "partials/navbar", locals: { activeComponent: 'intro' } %>
   <%= partial "partials/who_am_i" %>

@@ -107,7 +107,24 @@ nav.navbar{
     margin-bottom: 0;
   }
 
+  @include breakpoint('<=small') {
+    & a{
+      font-size: 0.6rem;
+      padding: 0 1.05rem 0 1.25rem;
+      min-width: 6.7rem;
+    }
+  }
+
   @include breakpoint('<=xsmall') {
+    & ul {
+      flex-direction: column;
+    }
+
+    & li:not(:first-child) {
+      border-top: solid 1px #ffffff;
+      border-left: 0;
+    }
+
     & {
       margin: $smallMarginSpacing auto $smallMarginSpacing auto;
     }

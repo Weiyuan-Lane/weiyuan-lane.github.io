@@ -1,5 +1,27 @@
 {
+
+  
   "cycles": [
+    {
+      "title": "March, 2024",
+      "items": [
+        {
+          "date": "17th",
+          "title": "Panel Discussion: AI Application in Industry (Host)",
+          "eventName": "Build with AI - Singapore",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-build-with-ai-singapore/"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1HKU3TIIlAwv16o2TeBM-m2Y63eE5rOfSSvEkLf4-tjk/edit"
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "December, 2023",
       "items": [
@@ -14,7 +36,7 @@
             },
             {
               "type": "slides",
-              "link": "https://docs.google.com/presentation/d/1guyoBMmDgqR2ezw9Wft2DGOIPpbx6QNNzI5F6flW22g/edit"
+              "link": "https://docs.google.com/presentation/d/1HKU3TIIlAwv16o2TeBM-m2Y63eE5rOfSSvEkLf4-tjk/edit"
             }
           ]
         },

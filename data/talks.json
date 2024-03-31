@@ -4,7 +4,26 @@
       "title": "March, 2024",
       "items": [
         {
-          "date": "17th",
+          "date": "24th",
+          "title": "[Code Lab 1] Generative AI Explorer - Vertex AI",
+          "eventName": "Build with AI Hanoi and QuanQuanGCP AI StudyJam 2024",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-ha-noi-presents-build-with-ai-hanoi-and-quanquangcp-ai-studyjam-2024/cohost-gdg-ha-noi"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1TE8VXuE8Oxtj5md1bF7roz0vzpOMWh1N3UkM6Qzyux4/edit#slide=id.g26c68789f37_0_606"
+            },
+            {
+              "type": "photos",
+              "link": "https://www.linkedin.com/posts/liuweiyuan_buildwithai-buildwithai-buildwithai-activity-7180098641875857408-IW7h"
+            }
+          ]
+        },
+        {
+          "date": "16th",
           "title": "Panel Discussion: AI Application in Industry (Host)",
           "eventName": "Build with AI - Singapore",
           "social": [

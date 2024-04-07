@@ -1,6 +1,30 @@
 {
   "cycles": [
     {
+      "title": "April, 2024",
+      "items": [
+        {
+          "date": "5th",
+          "title": "Livestreams are Fun! Creating + Hosting a RTMP Relay Server",
+          "eventName": "Friday Hacks #256, April 5: On Livestreams and Principal Component Analysis",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://www.nushackers.org/2024/03/friday-hacks-256"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1VxRVFEq8xDtS-CpjWVnJOSSv5tqsHrPqT9iuVLclDdY/edit#slide=id.g163e4f0fda7_0_17"
+            },
+            {
+              "type": "photos",
+              "link": "https://www.linkedin.com/posts/liuweiyuan_back-to-my-alma-mater-its-10-years-now-activity-7182565257435918337-et-M"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "March, 2024",
       "items": [
         {

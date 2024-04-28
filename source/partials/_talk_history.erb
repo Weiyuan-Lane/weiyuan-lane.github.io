@@ -21,13 +21,13 @@
               <br><br>
               <% talk.social.each do |social| %>
                 <% if social.type == 'video' %>
-                  <a href="<%= social.link %>" class="button" target="_blank"><i class="fa fa-play-circle"></i> Video</a>
+                  <a href="<%= social.link %>" class="button talk-button" target="_blank"><i class="fa fa-play-circle"></i> Video</a>
                 <% elsif social.type == 'slides' %>
-                  <a href="<%= social.link %>" class="button" target="_blank"><i class="fa fa-file-powerpoint-o"></i> Slides</a>
+                  <a href="<%= social.link %>" class="button talk-button" target="_blank"><i class="fa fa-file-powerpoint-o"></i> Slides</a>
                 <% elsif social.type == 'photos' %>
-                  <a href="<%= social.link %>" class="button" target="_blank"><i class="fa fa-camera"></i> Photos</a>
+                  <a href="<%= social.link %>" class="button talk-button" target="_blank"><i class="fa fa-camera"></i> Photos</a>
                 <% elsif social.type == 'event' %>
-                  <a href="<%= social.link %>" class="button" target="_blank"><i class="fa fa-link"></i> Event</a>
+                  <a href="<%= social.link %>" class="button talk-button" target="_blank"><i class="fa fa-link"></i> Event</a>
                 <% end %>
               <% end %>
             <% end %>

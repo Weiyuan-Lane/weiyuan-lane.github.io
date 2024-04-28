@@ -4,6 +4,25 @@
       "title": "April, 2024",
       "items": [
         {
+          "date": "27th",
+          "title": "Integrating Applications with Gemini 1.0 Pro on Google Cloud",
+          "eventName": "Build with AI Kuala Lumpur & #GCPBoleh AI StudyJam 2024",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-cloud-kl-presents-build-with-ai-kuala-lumpur-amp-gcpboleh-ai-studyjam-2024/"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1jkjE8JawTq8UNQMxL_DQ0IZH4Y1pclBWEaQ7HCRiHwc/edit"
+            },
+            {
+              "type": "photos",
+              "link": " https://photos.app.goo.gl/Agermdh8nfcYZ7mD9"
+            }
+          ]
+        },
+        {
           "date": "5th",
           "title": "Livestreams are Fun! Creating + Hosting a RTMP Relay Server",
           "eventName": "Friday Hacks #256, April 5: On Livestreams and Principal Component Analysis",

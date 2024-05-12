@@ -1,6 +1,30 @@
 {
   "cycles": [
     {
+      "title": "May, 2024",
+      "items": [
+        {
+          "date": "5th",
+          "title": "Build a Scalable Gemini Powered Serverless App",
+          "eventName": "Build with AI George Town",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-george-town-presents-build-with-ai-george-town/"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/13okha7bLOO8freIQphl9DdWI9JGc2J-hqYihqm2ykeI/edit?usp=sharing"
+            },
+            {
+              "type": "photos",
+              "link": "https://drive.google.com/drive/folders/11zbe2DJml9UPVd3jOn63lcPBUJpNoT69"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "April, 2024",
       "items": [
         {
@@ -18,7 +42,7 @@
             },
             {
               "type": "photos",
-              "link": " https://photos.app.goo.gl/Agermdh8nfcYZ7mD9"
+              "link": "https://photos.app.goo.gl/Agermdh8nfcYZ7mD9"
             }
           ]
         },

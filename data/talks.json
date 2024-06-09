@@ -1,6 +1,30 @@
 {
   "cycles": [
     {
+      "title": "June, 2024",
+      "items": [
+        {
+          "date": "8th",
+          "title": "From an app dev POV - Learning to Build a Gemini-Powered Serverless App ",
+          "eventName": "Google I/O Extended Singapore 2024",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-google-io-extended-singapore-2024/"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1SdrUclkkxhZ537jPewbwQ9GUOYUYKmVr6ef0IOCZbn0/edit?usp=sharing"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/MSocHXy6zC53uZMv9"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "May, 2024",
       "items": [
         {

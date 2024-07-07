@@ -4,6 +4,25 @@
       "title": "June, 2024",
       "items": [
         {
+          "date": "29th",
+          "title": "A senior / leader's engineering manifesto, and developing your own",
+          "eventName": "Google I/O Extended Kuala Lumpur 2024",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-kuala-lumpur-presents-google-io-extended-kuala-lumpur-2024/"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1TI4dWvEyEaTz6umROSTE5XPt3FnGhhE-07f4_YDJX8o/edit#slide=id.g273b83485a9_0_0"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/hpG3zpaxwF7QwzMK9"
+            }
+          ]
+        },
+        {
           "date": "8th",
           "title": "From an app dev POV - Learning to Build a Gemini-Powered Serverless App ",
           "eventName": "Google I/O Extended Singapore 2024",

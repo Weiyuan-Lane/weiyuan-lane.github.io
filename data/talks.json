@@ -1,6 +1,41 @@
 {
   "cycles": [
     {
+      "title": "July, 2024",
+      "items": [
+        {
+          "date": "24th",
+          "title": "Making a call via the internet? Let's use Google Cloud and WebRTC!",
+          "eventName": "CityJS Singapore 2024",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://singapore.cityjsconf.org/talk/5o9tNQRURjlA6FYmN4CzJd"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1zVwDohMAaKv2Ewj6wNAEub7E8nLZPe21MISKL0yK_E4"
+            }
+          ]
+        },
+        {
+          "date": "20th",
+          "title": "From an app dev POV - Learning to Build a Gemini-Powered Serverless App ",
+          "eventName": "Google I/O Extended x Build with AI Cloud Manila",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-cloud-manila-presents-google-io-extended-x-build-with-ai-cloud-manila/"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1F_m4_6mEz4jHeL8TOh8iARtqSzofIBUYKVhffgEKQMc"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "June, 2024",
       "items": [
         {

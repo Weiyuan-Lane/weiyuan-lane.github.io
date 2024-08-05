@@ -4,6 +4,25 @@
       "title": "July, 2024",
       "items": [
         {
+          "date": "27th",
+          "title": "From an app dev POV - Learning to Build a Gemini-Powered Serverless App",
+          "eventName": "Google I/O Extended Surabaya 2024",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-surabaya-presents-google-io-extended-surabaya-2024/"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/h47PpTkCD4K6Pb978"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1F_m4_6mEz4jHeL8TOh8iARtqSzofIBUYKVhffgEKQMc/edit"
+            }
+          ]
+        },
+        {
           "date": "24th",
           "title": "Making a call via the internet? Let's use Google Cloud and WebRTC!",
           "eventName": "CityJS Singapore 2024",
@@ -20,7 +39,7 @@
         },
         {
           "date": "20th",
-          "title": "From an app dev POV - Learning to Build a Gemini-Powered Serverless App ",
+          "title": "From an app dev POV - Learning to Build a Gemini-Powered Serverless App",
           "eventName": "Google I/O Extended x Build with AI Cloud Manila",
           "social": [
             {

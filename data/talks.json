@@ -1,6 +1,30 @@
 {
   "cycles": [
     {
+      "title": "September, 2024",
+      "items": [
+        {
+          "date": "28th",
+          "title": "Getting Started with Generative AI Agents",
+          "eventName": "Generative AI in Action Roadshow",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-generative-ai-in-action-roadshow/"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/qXbjUBYmrFZAPby87"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1eVXg474J-USW8-wTPwwoQqtvtQnOqgQTfIlfluK2dic"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "July, 2024",
       "items": [
         {

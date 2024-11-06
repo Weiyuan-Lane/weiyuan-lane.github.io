@@ -1,6 +1,49 @@
 {
   "cycles": [
     {
+      "title": "November, 2024",
+      "items": [
+        {
+          "date": "3rd",
+          "title": "Build your own search experience in Google Cloud, with Vertex AI Studio and Vertex AI Agent Builder",
+          "eventName": "DevFest Cloud Bangkok 2024",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-cloud-bangkok-presents-devfest-cloud-bangkok-2024/"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/C4E7rtUv4zQjrVvF7"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1ox-OZBV4G6ft3sKsZZGXI4EsEHW5mDDkC_DU6qhpLN0"
+            }
+          ]
+        },
+        {
+          "date": "2nd",
+          "title": "Build your own search experience in Google Cloud, with Vertex AI Studio and Vertex AI Agent Builder",
+          "eventName": "GDG DevFest Hanoi 2024",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-ha-noi-presents-gdg-devfest-hanoi-2024-1/"
+            },
+            {
+              "type": "photos",
+              "link": "https://drive.google.com/drive/folders/1g87uw2z2EnHSTqeWJytmK3uXDKO5s62V"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1ox-OZBV4G6ft3sKsZZGXI4EsEHW5mDDkC_DU6qhpLN0"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "September, 2024",
       "items": [
         {

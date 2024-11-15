@@ -4,6 +4,25 @@
       "title": "November, 2024",
       "items": [
         {
+          "date": "9th",
+          "title": "Build your own search experience in Google Cloud, with Vertex AI Studio and Vertex AI Agent Builder",
+          "eventName": "DevFest Bogor 2024",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-bogor-presents-devfest-bogor-2024/"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/nyqinrGgoDUrtJJ69"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1ox-OZBV4G6ft3sKsZZGXI4EsEHW5mDDkC_DU6qhpLN0"
+            }
+          ]
+        },
+        {
           "date": "3rd",
           "title": "Build your own search experience in Google Cloud, with Vertex AI Studio and Vertex AI Agent Builder",
           "eventName": "DevFest Cloud Bangkok 2024",

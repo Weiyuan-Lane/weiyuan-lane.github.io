@@ -4,6 +4,55 @@
       "title": "November, 2024",
       "items": [
         {
+          "date": "23rd",
+          "title": "Growing beyond the frame of a \"Senior Engineer\", with the help of the engineering manifesto",
+          "eventName": "DevFest Singapore 2024",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-devfest-singapore-2024-gemini-conference/"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/7wUWThjXLspNFwU56"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1tR2joTU0JoM_5QGYhj8yG6cFd9MQEBolMczoknWASz8"
+            }
+          ]
+        },
+        {
+          "date": "23rd",
+          "title": "Build your own search experience in Google Cloud, with Vertex AI Studio and Vertex AI Agent Builder",
+          "eventName": "DevFest Singapore 2024",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-devfest-singapore-2024-gemini-conference/"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/7wUWThjXLspNFwU56"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1ox-OZBV4G6ft3sKsZZGXI4EsEHW5mDDkC_DU6qhpLN0"
+            }
+          ]
+        },
+        {
+          "date": "22nd",
+          "title": "A Glimpse Into Ascenda (Intro talk to SMU students)",
+          "eventName": "SMU x Ascenda - CS301 Sharing",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://x.smu.edu.sg/project-showcase/scalable-and-efficient-hotel-booking-platform"
+            }
+          ]
+        },
+        {
           "date": "20th",
           "title": "50% off our AWS Bill, What six months of studying our bill taught me",
           "eventName": "AWS Meetup November 2024 – Farewell at Capital Square",

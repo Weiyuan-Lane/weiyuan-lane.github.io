@@ -4,6 +4,21 @@
       "title": "November, 2024",
       "items": [
         {
+          "date": "27th",
+          "title": "DevOps: A Must-Have Skill for Every Team",
+          "eventName": "DevFest Singapore 2024",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://devopscon.io/business-company-culture/domain-independent-devops-skills-for-tech-teams/"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1gGNU9inou6K39Zm4g5qriLlPaMQFmIiFRFuwfv1ZUQ0/edit?usp=sharing"
+            }
+          ]
+        },
+        {
           "date": "23rd",
           "title": "Growing beyond the frame of a \"Senior Engineer\", with the help of the engineering manifesto",
           "eventName": "DevFest Singapore 2024",

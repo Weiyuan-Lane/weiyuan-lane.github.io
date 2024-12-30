@@ -4,6 +4,102 @@
       "title": "November, 2024",
       "items": [
         {
+          "date": "21st",
+          "title": "Build your own search experience in Google Cloud, with Vertex AI Studio and Vertex AI Agent Builder",
+          "eventName": "GDG on Campus Universiti Teknologi Malaysia",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-on-campus-universiti-teknologi-malaysia-johor-bahru-malaysia-presents-build-your-own-search-experience-in-google-cloud-with-vertex-al-studio-and-vertex-al-agent-builder/"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1ox-OZBV4G6ft3sKsZZGXI4EsEHW5mDDkC_DU6qhpLN0"
+            }
+          ]
+        },
+        {
+          "date": "14th",
+          "title": "Build your own search experience in Google Cloud, with Vertex AI Studio and Vertex AI Agent Builder",
+          "eventName": "DevFest George Town 2024",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-george-town-presents-devfest-george-town-2024/"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/JLxB7QLMtreQCF2c9"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1ox-OZBV4G6ft3sKsZZGXI4EsEHW5mDDkC_DU6qhpLN0"
+            }
+          ]
+        },
+        {
+          "date": "7th",
+          "title": "Build your own search experience in Google Cloud, with Vertex AI Studio and Vertex AI Agent Builder",
+          "eventName": "DevFest 2024 Kuala Lumpur",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-kuala-lumpur-presents-devfest-2024-kuala-lumpur/"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/v579Eigwp1bKFGem6"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1ox-OZBV4G6ft3sKsZZGXI4EsEHW5mDDkC_DU6qhpLN0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "November, 2024",
+      "items": [
+        {
+          "date": "30th",
+          "title": "Build your own search experience in Google Cloud, with Vertex AI Studio and Vertex AI Agent Builder",
+          "eventName": "DevFest Manila 2024",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-manila-presents-gdg-devfest-manila-2024/"
+            },
+            {
+              "type": "photos",
+              "link": "https://www.facebook.com/gdgmanilaph/photos_by"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1ox-OZBV4G6ft3sKsZZGXI4EsEHW5mDDkC_DU6qhpLN0"
+            }
+          ]
+        },
+        {
+          "date": "30th",
+          "title": "Growing beyond the frame of a “Senior Engineer”, with the help of the engineering manifesto!",
+          "eventName": "DevFest Manila 2024",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-manila-presents-gdg-devfest-manila-2024/"
+            },
+            {
+              "type": "photos",
+              "link": "https://www.facebook.com/gdgmanilaph/photos_by"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1tR2joTU0JoM_5QGYhj8yG6cFd9MQEBolMczoknWASz8"
+            }
+          ]
+        },
+        {
           "date": "27th",
           "title": "DevOps: A Must-Have Skill for Every Team",
           "eventName": "DevFest Singapore 2024",

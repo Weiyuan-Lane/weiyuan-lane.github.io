@@ -1,6 +1,26 @@
 {
   "cycles": [
     {
+      "title": "January, 2025",
+      "items": [
+        {
+          "date": "25th",
+          "title": "Prepping for your next Cloud Certification?",
+          "eventName": "DSC Monash University Malaysia",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-on-campus-monash-university-malaysia-selangor-malaysia-presents-introduction-to-google-cloud-and-cloud-certification/"
+            },
+            {
+              "type": "video",
+              "link": "https://www.youtube.com/watch?v=DiNepj3t1i4"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "December, 2024",
       "items": [
         {

@@ -41,6 +41,21 @@
               "link": "https://www.youtube.com/watch?v=DiNepj3t1i4"
             }
           ]
+        },
+        {
+          "date": "13th",
+          "title": "Growing beyond the frame of a “Senior Engineer”, with the help of the engineering manifesto!",
+          "eventName": "JuniorDevSG - Code & Tell Jan 2025",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://www.meetup.com/junior-developers-singapore/events/305344304/"
+            },
+            {
+              "type": "photos",
+              "link": "https://www.meetup.com/junior-developers-singapore/photos/35095873/"
+            }
+          ]
         }
       ]
     },

@@ -1,6 +1,30 @@
 {
   "cycles": [
     {
+      "title": "March, 2025",
+      "items": [
+        {
+          "date": "22nd",
+          "title": "Going hands-on with Gemini 2.0 Flash and Google Unified SDK",
+          "eventName": "Build with AI Roadshow Singapore 2025",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-build-with-ai-roadshow-singapore-2025/"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/CQoxE1CpPddqW7Hd6"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1v_eG8eCV_3f9FKDSEEab_yASBpjWT95tRDXi-OkD97I"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "January, 2025",
       "items": [
         {

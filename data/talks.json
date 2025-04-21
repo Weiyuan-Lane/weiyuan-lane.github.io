@@ -1,6 +1,45 @@
 {
   "cycles": [
     {
+      "title": "April, 2025",
+      "items": [
+        {
+          "date": "20th",
+          "title": "Going hands-on with Google Generative AI using the Gen AI SDK",
+          "eventName": "Build with AI Universiti Teknologi Malaysia 2025",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-on-campus-universiti-teknologi-malaysia-johor-bahru-malaysia-presents-build-with-ai-universiti-teknologi-malaysia-2025/"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1kq8wn52el6XCC_4rOPawE9p3piiCyvYprqkd2p9Lhr4"
+            }
+          ]
+        },
+        {
+          "date": "16th",
+          "title": "AI for you, AI for me - A Journey for Application Developers",
+          "eventName": "EntreBoss Hub @ NLB",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://www.linkedin.com/posts/koopingshung_ai-for-you-ai-for-me-a-journey-for-application-activity-7306868969410310145-8OkO"
+            },
+            {
+              "type": "photos",
+              "link": "https://www.linkedin.com/posts/liuweiyuan_in-this-year-of-2025-whats-does-the-activity-7319934157986373633-fGhD"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1xH1SV4_okZKSoiIWtXBSVDihnTUqBYRgsoveJri3oh0"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "March, 2025",
       "items": [
         {

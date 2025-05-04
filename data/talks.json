@@ -4,6 +4,32 @@
       "title": "April, 2025",
       "items": [
         {
+          "date": "30th",
+          "title": "Creating Marketing Assets using Gemini 2.0",
+          "eventName": "[GDG on Campus] Build with AI: Train-the-Trainer",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1kkxDo75_5dGPTU0qUhZT-NsJNMaTPjkNr2n3UzVdLII"
+            }
+          ]
+        },
+        {
+          "date": "24th",
+          "title": "Introduction to Cloud Computing & AI",
+          "eventName": "GDG on Campus Multimedia University - Selangor, Malaysia",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-on-campus-multimedia-university-selangor-malaysia-presents-introduction-to-cloud-computing-amp-ai/"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1AvxsjluXLolabPUUzfTzJssjsB4sGmxj4g7KpczDtWM"
+            }
+          ]
+        },
+        {
           "date": "20th",
           "title": "Going hands-on with Google Generative AI using the Gen AI SDK",
           "eventName": "Build with AI Universiti Teknologi Malaysia 2025",

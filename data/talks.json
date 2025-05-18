@@ -1,6 +1,60 @@
 {
   "cycles": [
     {
+      "title": "May, 2025",
+      "items": [
+        {
+          "date": "15th",
+          "title": "AI for you, AI for me - A story for Application Developers",
+          "eventName": "Workshop 1: App Dev & AI Centric - with Weiyuan Liu",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1ASEDqM-P-GyusI9mTBZIBmQqxIhhhyLOKFrm3w_90R8"
+            },
+            {
+              "type": "event",
+              "link": "https://www.linkedin.com/posts/hack-attack-2-0_hackattack2025-wherecodesparkschanges-activity-7327845069829427200-r8Rg/"
+            }
+          ]
+        },
+        {
+          "date": "10th",
+          "title": "Going Hands-on with Gemini 2.0 Flash",
+          "eventName": "Build With AI George Town 2025",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/12AkQ3NW4CoHEW6d3e7hKBVwRzqlVAYaxRzhn--JaSFY"
+            },
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/6QY93qtpjBpX3N7u9"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-george-town-presents-build-with-ai-george-town-2025/"
+            }
+          ]
+        },
+        {
+          "date": "10th",
+          "title": "Getting Started with Gemini 2.0 Flash on Vertex AI",
+          "eventName": "Build with AI Universiti Sains Malaysia 2025 - Workshop 3",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/15CBydoegWZ-yPFuO5Rc9AG34L_LkcDURyY1VLw422FA"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-on-campus-universiti-sains-malaysia-penang-malaysia-presents-build-with-ai-universiti-sains-malaysia-2025-workshop-3/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "April, 2025",
       "items": [
         {

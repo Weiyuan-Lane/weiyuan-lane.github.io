@@ -4,6 +4,25 @@
       "title": "May, 2025",
       "items": [
         {
+          "date": "31st",
+          "title": "Intro to Google Gen AI SDK",
+          "eventName": "Build with AI Manila 2025",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1r9i95MAxv817W3vB5v-eNMEeryZ5r0Nr-p37jZIKQk8/edit?usp=sharing"
+            },
+            {
+              "type": "photos",
+              "link": "https://www.facebook.com/media/set/?set=a.122139939146408501&type=3"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-manila-presents-build-with-ai-manila-2025/"
+            }
+          ]
+        },
+        {
           "date": "15th",
           "title": "AI for you, AI for me - A story for Application Developers",
           "eventName": "Workshop 1: App Dev & AI Centric - with Weiyuan Liu",

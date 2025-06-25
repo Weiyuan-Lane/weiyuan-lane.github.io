@@ -1,6 +1,26 @@
 {
   "cycles": [
     {
+      "title": "June, 2025",
+      "items": [
+        {
+          "date": "18th",
+          "title": "Let's Build Games with Amazon Q CLI",
+          "eventName": "AWS User Group Meetup June 2025",
+          "social": [
+            {
+              "type": "photos",
+              "link": "https://www.linkedin.com/posts/liuweiyuan_an-aws-community-builders-guide-to-irritate-activity-7341278407067955200-tRnv"
+            },
+            {
+              "type": "event",
+              "link": "https://www.meetup.com/aws-sg/events/308254507/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "May, 2025",
       "items": [
         {

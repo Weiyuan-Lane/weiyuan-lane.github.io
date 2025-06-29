@@ -4,6 +4,17 @@
       "title": "June, 2025",
       "items": [
         {
+          "date": "26th",
+          "title": "AI in Software Engineering",
+          "eventName": "AIMX Meetup",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://events.teams.microsoft.com/event/cc9cb3be-95e9-4def-9289-04fc597434c8@ab6f0e1c-73be-44c3-b7fa-2e8dde81aae7"
+            }
+          ]
+        },
+        {
           "date": "18th",
           "title": "Let's Build Games with Amazon Q CLI",
           "eventName": "AWS User Group Meetup June 2025",

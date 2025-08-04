@@ -1,6 +1,65 @@
 {
   "cycles": [
     {
+      "title": "August, 2025",
+      "items": [
+        {
+          "date": "26th",
+          "title": "MCP and A2A, What does that mean for us developers?",
+          "eventName": "Google I/O Extended Jakarta 2025",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1eR2TnBDXhSTctc3IMY6pD4LHiquV4Oyz03eX9ydxhKY/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-jakarta-presents-google-io-extended-jakarta-2025/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "July, 2025",
+      "items": [
+        {
+          "date": "26th",
+          "title": "MCP and A2A, What does that mean for us developers?",
+          "eventName": "Google I/O Extended George Town 2025",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1eR2TnBDXhSTctc3IMY6pD4LHiquV4Oyz03eX9ydxhKY/edit?usp=sharing"
+            },
+            {
+              "type": "photos",
+              "link": "https://drive.google.com/drive/folders/1iqHXOWsoD2tMk_mA0e4oIbKkji3V4p1K"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-george-town-presents-google-io-extended-george-town-2025-2/"
+            }
+          ]
+        },
+        {
+          "date": "24th",
+          "title": "Harnessing AI and Engineering Innovation: Strategies for Tech-Driven Transformation + AMA with Seasoned AI Practitioners",
+          "eventName": "AIMX Meetup",
+          "social": [
+            {
+              "type": "photos",
+              "link": "https://www.linkedin.com/posts/koopingshung_artificialintelligence-technicaldebt-softwareengineering-activity-7354076527552024576-Lu6Z"
+            },
+            {
+              "type": "event",
+              "link": "https://events.teams.microsoft.com/event/7034c04e-d981-4f8b-b9c1-1b651ca6d198@ab6f0e1c-73be-44c3-b7fa-2e8dde81aae7"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "June, 2025",
       "items": [
         {

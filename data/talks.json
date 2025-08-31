@@ -4,6 +4,21 @@
       "title": "August, 2025",
       "items": [
         {
+          "date": "28th",
+          "title": "Agents & the New Software Paradigm",
+          "eventName": "AI Asia : Building Beyond Borders",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1w3Kkc4DIHG_WbDWEEJzQFPAySaxfHJIJ9Xc-rd6guUc/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://cloudonair.withgoogle.com/events/sg-ai-asia-building-beyond-borders"
+            }
+          ]
+        },
+        {
           "date": "2nd",
           "title": "MCP and A2A, What does that mean for us developers?",
           "eventName": "Google I/O Extended Jakarta 2025",

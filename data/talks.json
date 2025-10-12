@@ -1,6 +1,37 @@
 {
   "cycles": [
     {
+      "title": "October, 2025",
+      "items": [
+        {
+          "date": "9th",
+          "title": "Panel - Platform Engineering: Breaking Myths & Achieving Breakthroughs",
+          "eventName": "Tech Week Singapore 2025",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://www.singaporetechnologyweek.com/tech-week-singapore-2025/panel-platform-engineering-breaking-myths-achieving-breakthroughs"
+            }
+          ]
+        },
+        {
+          "date": "9th",
+          "title": "AI for You, AI for Me - A Story for Application Developers",
+          "eventName": "Tech Week Singapore 2025",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://www.singaporetechnologyweek.com/tech-week-singapore-2025/ai-for-you-ai-for-me-a-story-for-application-developers"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/15jeo9AkT-8ueG30wwrJzmXbRrdLA2mNH4qAz4tPCIX4/edit?usp=sharing"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "August, 2025",
       "items": [
         {

@@ -1,6 +1,30 @@
 {
   "cycles": [
     {
+      "title": "November, 2025",
+      "items": [
+        {
+          "date": "1st",
+          "title": "Building Agentic systems with A2A, MCP, ADK",
+          "eventName": "DevFest Cloud Bangkok 2025",
+          "social": [
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/mJvfndZXQoGmP9dT9"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1cStzwS6x1NwJDK_HlaSLhXa-ehUYhH4yIfURCYNnzWg/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-cloud-bangkok-presents-devfest-cloud-bangkok-2025/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "October, 2025",
       "items": [
         {

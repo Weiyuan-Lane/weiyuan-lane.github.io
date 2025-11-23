@@ -4,6 +4,55 @@
       "title": "November, 2025",
       "items": [
         {
+          "date": "22nd",
+          "title": "Ask-Me-Anything",
+          "eventName": "DevFest Singapore 2025: Conference",
+          "social": [
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/gfLT5ojyA4gkVWCk6"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-devfest-singapore-2025-conference-1/cohost-gdg-singapore"
+            }
+          ]
+        },
+        {
+          "date": "22nd",
+          "title": "Building Agentic systems with A2A, MCP, ADK",
+          "eventName": "DevFest Singapore 2025: Conference",
+          "social": [
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/gfLT5ojyA4gkVWCk6"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1iZS-BRky-JWrZ0-Kenq9dcREpaH1ZviiX_viFIS0KtI/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-devfest-singapore-2025-conference-1/cohost-gdg-singapore"
+            }
+          ]
+        },
+        {
+          "date": "15th",
+          "title": "Orchestrating Multi-Agent Systems with Google Agent Development Kit",
+          "eventName": "DevFest Manila 2025",
+          "social": [
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/54uyXMKGfVxBCX1g9"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-manila-presents-devfest-manila-2025/"
+            }
+          ]
+        },
+        {
           "date": "1st",
           "title": "Building Agentic systems with A2A, MCP, ADK",
           "eventName": "DevFest Cloud Bangkok 2025",

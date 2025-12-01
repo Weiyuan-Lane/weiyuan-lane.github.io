@@ -4,6 +4,21 @@
       "title": "November, 2025",
       "items": [
         {
+          "date": "29th",
+          "title": "Building Agentic systems with A2A, MCP, ADK",
+          "eventName": "DevFest Cloud HCM 2025",
+          "social": [
+            {
+              "type": "photos",
+              "link": "https://www.facebook.com/gdgchcm/posts/pfbid0sVGdsd1pY8ZiLg4jzgDa491MXwzKxYqEWXUxTFmKFE1yA9sVvJAHki7izvapqHZcl"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-cloud-hcmc-presents-devfest-cloud-hcm-2025/"
+            }
+          ]
+        },
+        {
           "date": "22nd",
           "title": "Ask-Me-Anything",
           "eventName": "DevFest Singapore 2025: Conference",

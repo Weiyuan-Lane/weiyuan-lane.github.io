@@ -1,6 +1,26 @@
 {
   "cycles": [
     {
+      "title": "December, 2025",
+      "items": [
+        {
+          "date": "6th",
+          "title": "Building Agentic systems with A2A, MCP, ADK",
+          "eventName": "DevFest 2025 KL - GDG KL x GDG Cloud KL",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1iZS-BRky-JWrZ0-Kenq9dcREpaH1ZviiX_viFIS0KtI/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-kuala-lumpur-presents-devfest-2025-kl-gdg-kl-x-gdg-cloud-kl/cohost-gdg-kuala-lumpur"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "November, 2025",
       "items": [
         {
@@ -11,6 +31,10 @@
             {
               "type": "photos",
               "link": "https://www.facebook.com/gdgchcm/posts/pfbid0sVGdsd1pY8ZiLg4jzgDa491MXwzKxYqEWXUxTFmKFE1yA9sVvJAHki7izvapqHZcl"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1iZS-BRky-JWrZ0-Kenq9dcREpaH1ZviiX_viFIS0KtI/edit?usp=sharing"
             },
             {
               "type": "event",

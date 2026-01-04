@@ -4,6 +4,26 @@
       "title": "December, 2025",
       "items": [
         {
+          "date": "13th",
+          "title": "Keynote Speech Cloud AI - What's up with Gemini and Google Cloud?",
+          "eventName": "DevFest Bogor 2025",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1gwOCQARjnIBlh9xJ4uYfrGS0HLiIu89Ji1SSxsKd0QE/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-bogor-presents-devfest-bogor-2025/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "December, 2025",
+      "items": [
+        {
           "date": "6th",
           "title": "Building Agentic systems with A2A, MCP, ADK",
           "eventName": "DevFest 2025 KL - GDG KL x GDG Cloud KL",

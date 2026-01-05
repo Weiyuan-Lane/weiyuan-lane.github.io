@@ -9,6 +9,10 @@
           "eventName": "DevFest Bogor 2025",
           "social": [
             {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/dk3vuwAMCiRzCXnj8"
+            },
+            {
               "type": "slides",
               "link": "https://docs.google.com/presentation/d/1gwOCQARjnIBlh9xJ4uYfrGS0HLiIu89Ji1SSxsKd0QE/edit?usp=sharing"
             },
@@ -17,17 +21,16 @@
               "link": "https://gdg.community.dev/events/details/google-gdg-bogor-presents-devfest-bogor-2025/"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "December, 2025",
-      "items": [
+        },
         {
           "date": "6th",
           "title": "Building Agentic systems with A2A, MCP, ADK",
           "eventName": "DevFest 2025 KL - GDG KL x GDG Cloud KL",
           "social": [
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/S9HDecQgDB2Gk51Q6"
+            },
             {
               "type": "slides",
               "link": "https://docs.google.com/presentation/d/1iZS-BRky-JWrZ0-Kenq9dcREpaH1ZviiX_viFIS0KtI/edit?usp=sharing"

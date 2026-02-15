@@ -1,6 +1,30 @@
 {
   "cycles": [
     {
+      "title": "February, 2026",
+      "items": [
+        {
+          "date": "6th",
+          "title": "Building JavaScript apps with Vertex AI and Google Models, in 2026",
+          "eventName": "CityJS Singapore 2026",
+          "social": [
+            {
+              "type": "photos",
+              "link": "https://www.linkedin.com/posts/liuweiyuan_first-talk-of-2026-done-at-cityjs-conferences-activity-7426114305420369920-Pe7G"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1E0yv3p3FgxU5odCaV2VrXDunnH3_o5tNxdiwaNQKh48/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://singapore.cityjsconf.org/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "December, 2025",
       "items": [
         {

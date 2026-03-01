@@ -4,6 +4,25 @@
       "title": "February, 2026",
       "items": [
         {
+          "date": "28th",
+          "title": "Supercharging Agents with Model Context Protocol (MCP) & Agent2Agent (A2A)",
+          "eventName": "Build with AI 2026 | Gemini Nexus",
+          "social": [
+            {
+              "type": "photos",
+              "link": "https://www.linkedin.com/posts/liuweiyuan_tis-was-a-saturday-of-learning-and-fun-activity-7433736606634762240-oCRW"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1X38BggjYDubSVaIVeoVgXxxmGhbssZ7nvHvoOyV5_6E/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-on-campus-universiti-teknologi-malaysia-johor-bahru-malaysia-presents-build-with-ai-2026-gemini-nexus-supercharging-agents-with-mcp-amp-a2a/cohost-gdg-on-campus-universiti-teknologi-malaysia-johor-bahru-malaysia/"
+            }
+          ]
+        },
+        {
           "date": "6th",
           "title": "Building JavaScript apps with Vertex AI and Google Models, in 2026",
           "eventName": "CityJS Singapore 2026",

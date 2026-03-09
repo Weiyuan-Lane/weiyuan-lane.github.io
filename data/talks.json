@@ -1,6 +1,26 @@
 {
   "cycles": [
     {
+      "title": "March, 2026",
+      "items": [
+        {
+          "date": "9th",
+          "title": "Protocols for AI Agents - MCP, A2A, AP2",
+          "eventName": "FOSSASIA Summit 2026",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1t39c9p_XDD4ZGLxGUjZte3n_VS7QJ0B5thAddN1pqKc/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://eventyay.com/e/88882f3e/speakers?search=weiyuan"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "February, 2026",
       "items": [
         {

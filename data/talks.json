@@ -4,17 +4,40 @@
       "title": "March, 2026",
       "items": [
         {
-          "date": "9th",
-          "title": "Protocols for AI Agents - MCP, A2A, AP2",
-          "eventName": "FOSSASIA Summit 2026",
+          "date": "28th",
+          "title": "Supercharging Agents with MCP and A2A",
+          "eventName": "Build with AI Singapore: Vibe-Coding Breakfast",
           "social": [
             {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/YA3StqMhZbhSCLKH6"
+            },
+            {
               "type": "slides",
-              "link": "https://docs.google.com/presentation/d/1t39c9p_XDD4ZGLxGUjZte3n_VS7QJ0B5thAddN1pqKc/edit?usp=sharing"
+              "link": "https://docs.google.com/presentation/d/1OVDOYePzgtkvblvveRo3IATJ2_6dVHGPOAQjf-mSlNI/edit?usp=sharing"
             },
             {
               "type": "event",
-              "link": "https://eventyay.com/e/88882f3e/speakers?search=weiyuan"
+              "link": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-build-with-ai-singapore-vibe-coding-breakfast/cohost-gdg-singapore/"
+            }
+          ]
+        },
+        {
+          "date": "9th",
+          "title": "Building for the Evergreen, AI Studio in 2026",
+          "eventName": "Build with AI Singapore: Vibe-Coding Breakfast",
+          "social": [
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/YA3StqMhZbhSCLKH6"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1KACtv-O8Kv5SmE794Wp3mjDX239JGdDYFxlecsqsnOQ/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-build-with-ai-singapore-vibe-coding-breakfast/cohost-gdg-singapore/"
             }
           ]
         }

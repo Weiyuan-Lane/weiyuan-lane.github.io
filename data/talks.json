@@ -1,6 +1,26 @@
 {
   "cycles": [
     {
+      "title": "April, 2026",
+      "items": [
+        {
+          "date": "18th",
+          "title": "Building for the Evergreen, AI Studio in 2026",
+          "eventName": "Build with AI George Town 2026",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1kjRPmfxxYZu0-Od4GrHYRKFZPLEafeJc3hXd9Sxzp4I/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-george-town-presents-build-with-ai-george-town-2026-1/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "March, 2026",
       "items": [
         {

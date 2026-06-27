@@ -4,6 +4,25 @@
       "title": "June, 2026",
       "items": [
         {
+          "date": "27th",
+          "title": "Build an LLM and RAG-based Chat Application with AlloyDB and MCP Toolbox",
+          "eventName": "Google Cloud Next Extended Singapore 2026",
+          "social": [
+            {
+              "type": "photos",
+              "link": ""
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/10CIPcJ9JIbqT-D8suo3xBnZbdIRAO4yqIhTuUIRIjJs/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-google-cloud-next-extended-singapore-2026/cohost-gdg-singapore/"
+            }
+          ]
+        },
+        {
           "date": "19th",
           "title": "Building tomorrow's legacy today",
           "eventName": "SMU .Hack HEAP 2026",

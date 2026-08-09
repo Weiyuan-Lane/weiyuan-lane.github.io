@@ -1,6 +1,30 @@
 {
   "cycles": [
     {
+      "title": "August, 2026",
+      "items": [
+        {
+          "date": "5th",
+          "title": "Future-proofing Enterprise Data with AI and Cloud Natives",
+          "eventName": "Enterprise Tech Summit 2026",
+          "social": [
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/bnhaFjVbysVzojPRA"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1xoPnvfCjRHUfwUTMEDPD-iKSYwCtG30QBrb_66mfCqA/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://cloudonair.withgoogle.com/events/build-with-gemini-singapore"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "June, 2026",
       "items": [
         {

@@ -4,6 +4,21 @@
       "title": "August, 2026",
       "items": [
         {
+          "date": "25th",
+          "title": "Panel Discussion: Thriving in the GenAI Era",
+          "eventName": "AI in the Wild: Building Your Personal OS to Thrive in the GenAI Era",
+          "social": [
+            {
+              "type": "photos",
+              "link": "https://www.linkedin.com/posts/liuweiyuan_if-theres-one-thing-i-learnt-from-doing-ugcPost-7498538251322863616-Y-eL"
+            },
+            {
+              "type": "event",
+              "link": "https://luma.com/vj2546bx"
+            }
+          ]
+        },
+        {
           "date": "5th",
           "title": "Charging Ahead with AI Studio",
           "eventName": "Build With Gemini Singapore",

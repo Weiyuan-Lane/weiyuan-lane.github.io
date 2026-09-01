@@ -4,6 +4,17 @@
       "title": "August, 2026",
       "items": [
         {
+          "date": "31st",
+          "title": "The Importance of Yapping",
+          "eventName": "CS2101 Effective Communications for Computing Professionals",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://www.nus.edu.sg/celc/undergraduate-courses/cs2101-effective-communication-for-computing-professionals"
+            }
+          ]
+        },
+        {
           "date": "25th",
           "title": "Panel Discussion: Thriving in the GenAI Era",
           "eventName": "AI in the Wild: Building Your Personal OS to Thrive in the GenAI Era",

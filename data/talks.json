@@ -1,6 +1,45 @@
 {
   "cycles": [
     {
+      "title": "September, 2026",
+      "items": [
+        {
+          "date": "26th",
+          "title": "AWS DevOps Agent, more than just another AI tool",
+          "eventName": "AWS Community Day Malaysia 2026",
+          "social": [
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1TZ6tnyHQxV4XUhAte9uNc0hYbP4I18g4t51Ve4ZD8no/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://konfhub.com/aws-community-day-my-2026"
+            }
+          ]
+        },
+        {
+          "date": "17th",
+          "title": "MCP, you barely know her!",
+          "eventName": "AAIF Community Singapore - Communication Is Key!",
+          "social": [
+            {
+              "type": "photos",
+              "link": "https://www.linkedin.com/posts/liuweiyuan_are-you-an-mcp-sandwich-model-context-ugcPost-7507292902490869760-OZUa"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1SF1yPV-KY_PQSGSwq4rJeevn5LeFibHzXWPn48ZnZA4/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://luma.com/gspnb7f6"
+            }
+          ]
+        },
+      ]
+    },
+    {
       "title": "August, 2026",
       "items": [
         {

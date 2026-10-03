@@ -1,8 +1,54 @@
 {
   "cycles": [
     {
+      "title": "October, 2026",
+      "items": [
+        {
+          "date": "3rd",
+          "title": "MCP? I hardly know her!",
+          "eventName": "GDG Melbourne DevFest 2026",
+          "social": [
+            {
+              "type": "photos",
+              "link": "https://photos.app.goo.gl/zN7hEa7zCPiL7WXN6x"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1SF1yPV-KY_PQSGSwq4rJeevn5LeFibHzXWPn48ZnZA4/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-melbourne-presents-gdg-melbourne-devfest-2026/"
+            }
+          ]
+        }
+      ]
+    }
+    {
       "title": "September, 2026",
       "items": [
+        {
+          "date": "30th",
+          "title": "Beating the alarms - How we got our bearings right with SRE",
+          "eventName": "Singapore Tech Week 2026",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://www.singaporetechnologyweek.com/tech-week-singapore-2026/session-title-coming-soon"
+            }
+          ]
+        },
+        {
+          "date": "29th",
+          "title": "Collaboration with AI Agents – Embracing Opportunities & Overcoming Challenges",
+          "eventName": "Singapore Tech Week 2026",
+          "social": [
+            {
+              "type": "event",
+              "link": "https://www.singaporetechnologyweek.com/tech-week-singapore-2026/collaboration-with-ai-agents-embracing-opportunities-overcoming-challenges"
+            }
+          ]
+        },
         {
           "date": "26th",
           "title": "AWS DevOps Agent, more than just another AI tool",

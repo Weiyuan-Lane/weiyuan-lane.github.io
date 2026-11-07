@@ -4,8 +4,27 @@
       "title": "October, 2026",
       "items": [
         {
+          "date": "31st",
+          "title": "MCP, you barely know her!",
+          "eventName": "DevFest Cloud Manila 2026",
+          "social": [
+            {
+              "type": "photos",
+              "link": "https://gdgcloudhanoi.dev/photos"
+            },
+            {
+              "type": "slides",
+              "link": "https://docs.google.com/presentation/d/1SF1yPV-KY_PQSGSwq4rJeevn5LeFibHzXWPn48ZnZA4/edit?usp=sharing"
+            },
+            {
+              "type": "event",
+              "link": "https://gdg.community.dev/events/details/google-gdg-cloud-hanoi-presents-build-secure-scale-an-interactive-cloud-workshop-1/"
+            }
+          ]
+        },
+        {
           "date": "17th",
-          "title": "MCP? I hardly know her!",
+          "title": "MCP, you barely know her!",
           "eventName": "DevFest Cloud Manila 2026",
           "social": [
             {
@@ -35,7 +54,7 @@
         },
         {
           "date": "3rd",
-          "title": "MCP? I hardly know her!",
+          "title": "MCP, you barely know her!",
           "eventName": "GDG Melbourne DevFest 2026",
           "social": [
             {
